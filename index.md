@@ -23,13 +23,13 @@ Born in middlesouth China, Leave home at 13, Love reading,coding, and traveling.
 4.	<b>Yunfei Long</b>, Dan Xiong, Qin Lu, Minglei Li, and Chu Ren Huang. “Named Entity Recognition for Chinese Novels in the Ming-Qing Dynasties.” In Workshop on Chinese Lexical Semantics (pp. 362-375). Springer International Publishing.
 5.	I-Hsuan Chen, <b>Yunfei Long</b>, Qin Lu and Chu-Ren Huang. <a href="http://www.aclweb.org/anthology/K17-1006">“Leveraging Eventive Information for Better Metaphor Detection and Classification”</a>. In ACL-CONLL 2017 (CCF Top Conference, co-first author)
 6.	Qingqing Zhao, Chu-Ren Huang, and <b>Yunfei Long</b>. “Synaesthesia in Chinese: A corpus-based study of gustatory adjectives in Mandarin” To appear in Linguistics. (SSCI, Q1)
-7.	Minglei Li, Qin Lu, Yunfei Long, and Lin Gui. <a href="https://link.springer.com/chapter/10.1007/978-3-319-63558-3_43">“Representation Learning of Multiword Expressions with Compositionality Constraint”</a> In KSEM 2017 (CCF Top Conference)
-8.	Minglei Li, Qin Lu, Yunfei Long, and Lin Gui. <a href="http://ieeexplore.ieee.org/abstract/document/7968355/">“Inferring Affective Meanings of Words from Word Embedding.”</a> [Special Issue]. In the Journal of IEEE Transactions on Affective Computing, 2017 (CCF Top Journal).
-9.	Minglei Li, Qin Lu, Yunfei Long, and Lin Gui. “Hidden Recursive Neural Network for Sentence Classification.” In Proceedings of CICLING, 2017. (Poster)
-10.	Minglei Li, Da Wang, Qin Lu, and Yunfei Long. <a href="https://aclanthology.info/papers/Y16-2013/y16-2013">“Event Based Emotion Classification for News Articles.”</a> In Proceedings of PACLIC, 2016. (Oral)
-11.	Minglei Li, Yunfei Long, Qin Lu. <a href="http://ieeexplore.ieee.org/abstract/document/7875949/">“A Regression Approach to Valence-Arousal Ratings of Words from Word Embedding.”</a> In Proceedings of IALP, 2016 (Oral, Best Paper Award).
-12.	Minglei Li, Qin Lu, Lin Gui, Yunfei Long. <a href="https://link.springer.com/chapter/10.1007/978-3-319-47674-2_33">“Towards Scalable Emotion Classification in Microblog Based on Noisy Training Data.”</a> In Proceedings of CCL 2016. (Poster)
-13.	Minglei Li, Yunfei Long, Qin Lu. <a href="http://www.lrec-conf.org/proceedings/lrec2016/pdf/515_Paper.pdf">“Emotion Corpus Construction Based on Selection from Noisy Natural Labels”.</a> In Proceedings of LREC, 2016. (Poster)
+7.	Minglei Li, Qin Lu, <b>Yunfei Long</b>, and Lin Gui. <a href="https://link.springer.com/chapter/10.1007/978-3-319-63558-3_43">“Representation Learning of Multiword Expressions with Compositionality Constraint”</a> In KSEM 2017 (CCF Top Conference)
+8.	Minglei Li, Qin Lu, <b>Yunfei Long</b>, and Lin Gui. <a href="http://ieeexplore.ieee.org/abstract/document/7968355/">“Inferring Affective Meanings of Words from Word Embedding.”</a> [Special Issue]. In the Journal of IEEE Transactions on Affective Computing, 2017 (CCF Top Journal).
+9.	Minglei Li, Qin Lu, <b>Yunfei Long</b>, and Lin Gui. “Hidden Recursive Neural Network for Sentence Classification.” In Proceedings of CICLING, 2017. (Poster)
+10.	Minglei Li, Da Wang, Qin Lu, and <b>Yunfei Long</b>. <a href="https://aclanthology.info/papers/Y16-2013/y16-2013">“Event Based Emotion Classification for News Articles.”</a> In Proceedings of PACLIC, 2016. (Oral)
+11.	Minglei Li, <b>Yunfei Long</b>, Qin Lu. <a href="http://ieeexplore.ieee.org/abstract/document/7875949/">“A Regression Approach to Valence-Arousal Ratings of Words from Word Embedding.”</a> In Proceedings of IALP, 2016 (Oral, Best Paper Award).
+12.	Minglei Li, Qin Lu, Lin Gui, <b>Yunfei Long</b>. <a href="https://link.springer.com/chapter/10.1007/978-3-319-47674-2_33">“Towards Scalable Emotion Classification in Microblog Based on Noisy Training Data.”</a> In Proceedings of CCL 2016. (Poster)
+13.	Minglei Li, <b>Yunfei Long</b>, Qin Lu. <a href="http://www.lrec-conf.org/proceedings/lrec2016/pdf/515_Paper.pdf">“Emotion Corpus Construction Based on Selection from Noisy Natural Labels”.</a> In Proceedings of LREC, 2016. (Poster)
 
 
 
