@@ -23,8 +23,8 @@ Born in middle China, Leave home at 13, Love reading,coding, and traveling. Try 
 4.	Yunfei Long, Dan Xiong, Qin Lu, Minglei Li, and Chu Ren Huang. “Named Entity Recognition for Chinese Novels in the Ming-Qing Dynasties.” In Workshop on Chinese Lexical Semantics (pp. 362-375). Springer International Publishing.
 5.	I-Hsuan Chen, Yunfei Long, Qin Lu and Chu-Ren Huang. <a href="http://www.aclweb.org/anthology/K17-1006">“Leveraging Eventive Information for Better Metaphor Detection and Classification”</a>. In ACL-CONLL 2017 (CCF Top Conference, co-first author)
 6.	Qingqing Zhao, Chu-Ren Huang, and Yunfei Long. “Synaesthesia in Chinese: A corpus-based study of gustatory adjectives in Mandarin” To appear in Linguistics. (SSCI, Q1)
-7.	Minglei Li, Qin Lu, Yunfei Long, and Lin Gui. “Representation Learning of Multiword Expressions with Compositionality Constraint” In KSEM 2017 (CCF Top Conference)
-8.	Minglei Li, Qin Lu, and Yunfei Long. “Inferring Affective Meanings of Words from Word Embedding.” [Special Issue]. In the Journal of IEEE Transactions on Affective Computing, 2017 (CCF Top Journal).
+7.	Minglei Li, Qin Lu, Yunfei Long, and Lin Gui. <a href="https://link.springer.com/chapter/10.1007/978-3-319-63558-3_43">“Representation Learning of Multiword Expressions with Compositionality Constraint”</a> In KSEM 2017 (CCF Top Conference)
+8.	Minglei Li, Qin Lu, Yunfei Long, and Lin Gui. <a href="http://ieeexplore.ieee.org/abstract/document/7968355/">“Inferring Affective Meanings of Words from Word Embedding.”</a> [Special Issue]. In the Journal of IEEE Transactions on Affective Computing, 2017 (CCF Top Journal).
 9.	Minglei Li, Qin Lu, Yunfei Long, and Lin Gui. “Hidden Recursive Neural Network for Sentence Classification.” In Proceedings of CICLING, 2017. (Poster)
 10.	Minglei Li, Da Wang, Qin Lu, and Yunfei Long. “Event Based Emotion Classification for News Articles.” In Proceedings of PACLIC, 2016. (Oral)
 11.	Minglei Li, Yunfei Long, Qin Lu. “A Regression Approach to Valence-Arousal Ratings of Words from Word Embedding.” In Proceedings of IALP, 2016 (Oral, Best Paper Award).
