@@ -38,4 +38,4 @@ Telephone: (852) 5264 1401
 
 Email: <a href="csylong@comp.polyu.edu.hk">csylong@comp.polyu.edu.hk</a> OR <a href="longyunfei910911@gmail.com">longyunfei910911@gmail.com</a>  
 
-Find me in <a href="https://www.linkedin.com/in/yunfei-long-3342b08a/">LinkIn</a>, <a href="https://scholar.google.com.hk/citations?user=2gKA6BUAAAAJ&hl=en">Google Scholar</a>, and <a href="https://www.researchgate.net/profile/Yunfei_Long4">Researchgate</a>
+Find me in: <a href="https://www.linkedin.com/in/yunfei-long-3342b08a/">LinkIn</a>, <a href="https://scholar.google.com.hk/citations?user=2gKA6BUAAAAJ&hl=en">Google Scholar</a>, and <a href="https://www.researchgate.net/profile/Yunfei_Long4">Researchgate</a>
