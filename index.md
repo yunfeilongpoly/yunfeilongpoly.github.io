@@ -1,4 +1,4 @@
-### Some words about my project
+### Motto
 Let us work together to MAKE SENTIMENT ANALYISIS GREAT AGAIN! 
 
 ### Some words about my self
