@@ -24,6 +24,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact me
 Telephone: (852) 5264 1401
+
 Email: csylong@comp.polyu.edu.hk OR longyunfei910911@gmail.com
-LinkIn:https://www.linkedin.com/in/yunfei-long-3342b08a/
-Researchgate:https://www.researchgate.net/profile/Yunfei_Long4
+
+LinkIn: https://www.linkedin.com/in/yunfei-long-3342b08a/
+
+Researchgate: https://www.researchgate.net/profile/Yunfei_Long4
