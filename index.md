@@ -32,7 +32,6 @@ Born in middlesouth China, Leave home at 13, Love reading,coding, and traveling.
 13.	Minglei Li, <b>Yunfei Long</b>, Qin Lu. <a href="http://www.lrec-conf.org/proceedings/lrec2016/pdf/515_Paper.pdf">“Emotion Corpus Construction Based on Selection from Noisy Natural Labels”.</a> In Proceedings of LREC, 2016. (Poster)
 
 
-
 ### Contact me
 Telephone: (852) 5264 1401
 
