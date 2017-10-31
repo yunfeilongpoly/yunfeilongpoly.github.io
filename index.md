@@ -31,6 +31,7 @@ Born in middlesouth China, Leave home at 13, Love reading,coding, and traveling.
 12.	Minglei Li, Qin Lu, Lin Gui, <b>Yunfei Long</b>. <a href="https://link.springer.com/chapter/10.1007/978-3-319-47674-2_33">“Towards Scalable Emotion Classification in Microblog Based on Noisy Training Data.”</a> In Proceedings of CCL 2016. (Poster)
 13.	Minglei Li, <b>Yunfei Long</b>, Qin Lu. <a href="http://www.lrec-conf.org/proceedings/lrec2016/pdf/515_Paper.pdf">“Emotion Corpus Construction Based on Selection from Noisy Natural Labels”.</a> In Proceedings of LREC, 2016. (Poster)
 
+### Internships
 
 ### Contact me
 Telephone: (852) 5264 1401
