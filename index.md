@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Education background
 
-2015.08-,	              The Hong Kong Polytechnic University,	Computer Science(Nautral language processing)	            Ph.D. 
+2015.08-,	              The Hong Kong Polytechnic University,	Computer Science(Nautral language processing),	            Ph.D. 
 
 2013.08-2014.11, 	University of Edinburgh,	              Cognitive Science,	            M.Sc.
 
@@ -15,24 +15,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 2009.09-2013.06, 	Jilin University,	                    Linguistics (Major),              B.A. 
 
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 ### For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -43,3 +25,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Contact me
 Telephone: (852) 5264 1401
 Email: csylong@comp.polyu.edu.hk OR longyunfei910911@gmail.com
+LinkIn:https://www.linkedin.com/in/yunfei-long-3342b08a/
+Researchgate:https://www.researchgate.net/profile/Yunfei_Long4
