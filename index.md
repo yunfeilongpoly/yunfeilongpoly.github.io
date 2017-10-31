@@ -17,12 +17,12 @@ Born in middlesouth China, Leave home at 13, Love reading,coding, and traveling.
 
 ### Publications
 
-1.	Yunfei Long, Qin Lu, Rong Xiang, Minglei Li, and Chu-Ren Huang. <a href="http://www.aclweb.org/anthology/D17-1049">“A Cognition Based Attention Model for Sentiment Analysis”</a>. In EMNLP 2017. (CCF Top Conference)
-2.	Yunfei Long, Qin Lu, Minglei Li, and Lin Gui. “Hidden Recursive Neural Network for Sentence Classification.” In Proceedings of CICLING, 2017. (Poster)
-3.	Yunfei Long, Qin Lu, Yue Xiao, Minglei Li, and Chu Ren Huang. <a href="http://ieeexplore.ieee.org/document/7841066/">“Domain-Specific User Preference Prediction Based on Multiple User Activities”</a>. In IEEE, Big data 2016. 
-4.	Yunfei Long, Dan Xiong, Qin Lu, Minglei Li, and Chu Ren Huang. “Named Entity Recognition for Chinese Novels in the Ming-Qing Dynasties.” In Workshop on Chinese Lexical Semantics (pp. 362-375). Springer International Publishing.
-5.	I-Hsuan Chen, Yunfei Long, Qin Lu and Chu-Ren Huang. <a href="http://www.aclweb.org/anthology/K17-1006">“Leveraging Eventive Information for Better Metaphor Detection and Classification”</a>. In ACL-CONLL 2017 (CCF Top Conference, co-first author)
-6.	Qingqing Zhao, Chu-Ren Huang, and Yunfei Long. “Synaesthesia in Chinese: A corpus-based study of gustatory adjectives in Mandarin” To appear in Linguistics. (SSCI, Q1)
+1.	<b>Yunfei Long</b>, Qin Lu, Rong Xiang, Minglei Li, and Chu-Ren Huang. <a href="http://www.aclweb.org/anthology/D17-1049">“A Cognition Based Attention Model for Sentiment Analysis”</a>. In EMNLP 2017. (CCF Top Conference)
+2.	<b>Yunfei Long</b>, Qin Lu, Minglei Li, and Lin Gui. “Hidden Recursive Neural Network for Sentence Classification.” In Proceedings of CICLING, 2017. (Poster)
+3.	<b>Yunfei Long</b>, Qin Lu, Yue Xiao, Minglei Li, and Chu Ren Huang. <a href="http://ieeexplore.ieee.org/document/7841066/">“Domain-Specific User Preference Prediction Based on Multiple User Activities”</a>. In IEEE, Big data 2016. 
+4.	<b>Yunfei Long</b>, Dan Xiong, Qin Lu, Minglei Li, and Chu Ren Huang. “Named Entity Recognition for Chinese Novels in the Ming-Qing Dynasties.” In Workshop on Chinese Lexical Semantics (pp. 362-375). Springer International Publishing.
+5.	I-Hsuan Chen, <b>Yunfei Long</b>, Qin Lu and Chu-Ren Huang. <a href="http://www.aclweb.org/anthology/K17-1006">“Leveraging Eventive Information for Better Metaphor Detection and Classification”</a>. In ACL-CONLL 2017 (CCF Top Conference, co-first author)
+6.	Qingqing Zhao, Chu-Ren Huang, and <b>Yunfei Long</b>. “Synaesthesia in Chinese: A corpus-based study of gustatory adjectives in Mandarin” To appear in Linguistics. (SSCI, Q1)
 7.	Minglei Li, Qin Lu, Yunfei Long, and Lin Gui. <a href="https://link.springer.com/chapter/10.1007/978-3-319-63558-3_43">“Representation Learning of Multiword Expressions with Compositionality Constraint”</a> In KSEM 2017 (CCF Top Conference)
 8.	Minglei Li, Qin Lu, Yunfei Long, and Lin Gui. <a href="http://ieeexplore.ieee.org/abstract/document/7968355/">“Inferring Affective Meanings of Words from Word Embedding.”</a> [Special Issue]. In the Journal of IEEE Transactions on Affective Computing, 2017 (CCF Top Journal).
 9.	Minglei Li, Qin Lu, Yunfei Long, and Lin Gui. “Hidden Recursive Neural Network for Sentence Classification.” In Proceedings of CICLING, 2017. (Poster)
