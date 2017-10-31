@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Education background
 
-2015.08-,	              The Hong Kong Polytechnic University,	Computer Science	            Ph.D. 
+2015.08-,	              The Hong Kong Polytechnic University,	Computer Science(Nautral language processing)	            Ph.D. 
 
 2013.08-2014.11, 	University of Edinburgh,	              Cognitive Science,	            M.Sc.
 
