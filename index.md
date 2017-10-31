@@ -17,9 +17,9 @@ Born in middle China, Leave home at 13, Love reading,coding, and traveling. Try 
 
 ### Publications
 
-1.	Yunfei Long, Qin Lu, Rong Xiang, Minglei Li, and Chu-Ren Huang. “A Cognition Based Attention Model for Sentiment Analysis”. In EMNLP 2017. (CCF Top Conference)
+1.	Yunfei Long, Qin Lu, Rong Xiang, Minglei Li, and Chu-Ren Huang. “A Cognition Based Attention Model for Sentiment Analysis”. In EMNLP 2017. (CCF Top Conference) http://www.aclweb.org/anthology/D17-1049
 2.	Yunfei Long, Qin Lu, Minglei Li, and Lin Gui. “Hidden Recursive Neural Network for Sentence Classification.” In Proceedings of CICLING, 2017. (Poster)
-3.	Yunfei Long, Qin Lu, Yue Xiao, Minglei Li, and Chu Ren Huang. “Domain-Specific User Preference Prediction Based on Multiple User Activities”. In IEEE, Big data 2016.
+3.	Yunfei Long, Qin Lu, Yue Xiao, Minglei Li, and Chu Ren Huang. “Domain-Specific User Preference Prediction Based on Multiple User Activities”. In IEEE, Big data 2016. http://ieeexplore.ieee.org/document/7841066/
 4.	Yunfei Long, Dan Xiong, Qin Lu, Minglei Li, and Chu Ren Huang. “Named Entity Recognition for Chinese Novels in the Ming-Qing Dynasties.” In Workshop on Chinese Lexical Semantics (pp. 362-375). Springer International Publishing.
 5.	I-Hsuan Chen, Yunfei Long, Qin Lu and Chu-Ren Huang. “Leveraging Eventive Information for Better Metaphor Detection and Classification”. In ACL-CONLL 2017 (CCF Top Conference, co-first author)
 6.	Qingqing Zhao, Chu-Ren Huang, and Yunfei Long. “Synaesthesia in Chinese: A corpus-based study of gustatory adjectives in Mandarin” To appear in Linguistics. (SSCI, Q1)
