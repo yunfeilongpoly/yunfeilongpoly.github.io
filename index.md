@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Some words
 
-You can use the [editor on GitHub](https://github.com/MarkLongPoly/MarkLongPoly.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Education background
 
@@ -30,7 +29,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 11.	Minglei Li, Yunfei Long, Qin Lu. “A Regression Approach to Valence-Arousal Ratings of Words from Word Embedding.” In Proceedings of IALP, 2016 (Oral, Best Paper Award).
 12.	Minglei Li, Qin Lu, Lin Gui, Yunfei Long. “Towards Scalable Emotion Classification in Microblog Based on Noisy Training Data.” In Proceedings of CCL 2016. (Poster)
 13.	Minglei Li, Yunfei Long, Qin Lu. “Emotion Corpus Construction Based on Selection from Noisy Natural Labels”. In Proceedings of LREC, 2016. (Poster)
-
 
 
 
