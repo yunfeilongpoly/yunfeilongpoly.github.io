@@ -15,7 +15,7 @@ Born in middlesouth China, Leave home at 13, Love reading,coding, and traveling.
 2009.09-2013.06, 	Jilin University,	                    Linguistics (Major),              B.A. 
 
 
-<h1>### Publications</h1>
+<h1>Publications</h1>
 
 1.	<b>Yunfei Long</b>, Qin Lu, Rong Xiang, Minglei Li, and Chu-Ren Huang. <a href="http://www.aclweb.org/anthology/D17-1049">“A Cognition Based Attention Model for Sentiment Analysis”</a>. In EMNLP 2017. (CCF Top Conference)
 2.	<b>Yunfei Long</b>, Qin Lu, Minglei Li, and Lin Gui. “Hidden Recursive Neural Network for Sentence Classification.” In Proceedings of CICLING, 2017. (Poster)
