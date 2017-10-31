@@ -4,9 +4,17 @@ You can use the [editor on GitHub](https://github.com/MarkLongPoly/MarkLongPoly.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2015.08-,	              The Hong Kong Polytechnic University,	Computer Science	            Ph.D. 
+
+2013.08-2014.11, 	University of Edinburgh,	              Cognitive Science,	            M.Sc.
+
+2009.09-2013.06, 	Jilin University,                     Computer Science(Minor),	         B.SC.
+
+2009.09-2013.06, 	Jilin University,	                    Linguistics (Major),              B.A. 
+
+
 
 ```markdown
 Syntax highlighted code block
