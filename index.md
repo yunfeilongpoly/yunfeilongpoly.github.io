@@ -1,7 +1,8 @@
-## Some words
+### Some words about my project
+Let us work together to MAKE SENTIMENT ANALYISIS GREAT AGAIN! 
 
-
-
+### Some words about my self
+Born in middle China, Leave home at 13, Love reading,coding, and traveling. Try to learn from both humanity and science.
 
 ### Education background
 
