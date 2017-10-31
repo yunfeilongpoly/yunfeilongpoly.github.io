@@ -16,6 +16,7 @@ Born in middlesouth China, Leave home at 13, Love reading,coding, and traveling.
 
 
 <h1>Publications</h1>
+<h2>Journal</h2>
 
 1.	<b>Yunfei Long</b>, Qin Lu, Rong Xiang, Minglei Li, and Chu-Ren Huang. <a href="http://www.aclweb.org/anthology/D17-1049">“A Cognition Based Attention Model for Sentiment Analysis”</a>. In EMNLP 2017. (CCF Top Conference)
 2.	<b>Yunfei Long</b>, Qin Lu, Minglei Li, and Lin Gui. “Hidden Recursive Neural Network for Sentence Classification.” In Proceedings of CICLING, 2017. (Poster)
@@ -30,6 +31,7 @@ Born in middlesouth China, Leave home at 13, Love reading,coding, and traveling.
 11.	Minglei Li, <b>Yunfei Long</b>, Qin Lu. <a href="http://ieeexplore.ieee.org/abstract/document/7875949/">“A Regression Approach to Valence-Arousal Ratings of Words from Word Embedding.”</a> In Proceedings of IALP, 2016 (Oral, Best Paper Award).
 12.	Minglei Li, Qin Lu, Lin Gui, <b>Yunfei Long</b>. <a href="https://link.springer.com/chapter/10.1007/978-3-319-47674-2_33">“Towards Scalable Emotion Classification in Microblog Based on Noisy Training Data.”</a> In Proceedings of CCL 2016. (Poster)
 13.	Minglei Li, <b>Yunfei Long</b>, Qin Lu. <a href="http://www.lrec-conf.org/proceedings/lrec2016/pdf/515_Paper.pdf">“Emotion Corpus Construction Based on Selection from Noisy Natural Labels”.</a> In Proceedings of LREC, 2016. (Poster)
+<h2>Conference Proceeding</h2>
 
 ### Internships
 
