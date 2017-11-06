@@ -34,7 +34,10 @@ Born in middlesouth China, Leave home at 13, Love reading,coding, and traveling.
 11.	Minglei Li, <b>Yunfei Long</b>, Qin Lu. <a href="http://www.lrec-conf.org/proceedings/lrec2016/pdf/515_Paper.pdf">“Emotion Corpus Construction Based on Selection from Noisy Natural Labels”.</a> In Proceedings of LREC, 2016. (Poster)
 
 
-### Internships
+### Conference Committes
+China National Conference on Computational Linguistics (<a href="http://www.cips-cl.org/static/CCL2017/callfor.html">CCL 2017</a>, <a href="http://www.cips-cl.org/static/CCL2016/en/index.html">CCL 2016</a>), reviewer committee 
+
+1st Workshop on Linguistic and Neuro-Cognitive Resources (<a href="http://158.132.124.189/LiNCR_workshop/index.html">LiNCR</a>), programme committee
 
 ### Contact me
 Telephone: (852) 5264 1401
