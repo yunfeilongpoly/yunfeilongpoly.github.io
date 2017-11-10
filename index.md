@@ -39,7 +39,7 @@ For more information, please visit my <a href="https://github.com/yunfeilongpoly
 ### Conference Committes
 China National Conference on Computational Linguistics (<a href="http://www.cips-cl.org/static/CCL2017/callfor.html">CCL 2017</a>, <a href="http://www.cips-cl.org/static/CCL2016/en/index.html">CCL 2016</a>), reviewer committee 
 
-1st Workshop on Linguistic and Neuro-Cognitive Resources (<a href="http://158.132.124.189/LiNCR_workshop/index.html">LiNCR</a>), programme committee
+1st Workshop on Linguistic and Neuro-Cognitive Resources (<a href="http://lincr2018.cbs.polyu.edu.hk/LiNCR_workshop/">LiNCR</a>), programme committee
 
 ### Contact me
 Telephone: (852) 5264 1401
