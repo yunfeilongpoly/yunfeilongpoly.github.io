@@ -32,6 +32,7 @@ In 2017:
 6.	Minglei Li, Qin Lu, <b>Long, Yunfei</b>, and Lin Gui. <a href="https://link.springer.com/chapter/10.1007/978-3-319-63558-3_43">“Representation Learning of Multiword Expressions with Compositionality Constraint”</a> In KSEM 2017 (CCF Top Conference)
 7.	Minglei Li, Qin Lu, <b>Long, Yunfei</b>, and Lin Gui. “Hidden Recursive Neural Network for Sentence Classification.” In Proceedings of CICLING, 2017. (Poster)
 8.  Li, M., Lu, Q.,<b>Long, Yunfei</b>. (2017). Are Manually Prepared Affective Lexicons Really Useful for Sentiment Analysis. In Proceedings of the Eighth International Joint Conference on Natural Language Processing (Volume 2: Short Papers) (Vol. 2, pp. 146-150).
+
 In 2016:
 1.	<b> Long, Yunfei</b>, Qin Lu, Yue Xiao, Minglei Li, and Chu Ren Huang. <a href="http://ieeexplore.ieee.org/document/7841066/">“Domain-Specific User Preference Prediction Based on Multiple User Activities”</a>. In IEEE, Big data 2016. 
 2.	Minglei Li, Da Wang, Qin Lu, and <b>Yunfei Long</b>. <a href="https://aclanthology.info/papers/Y16-2013/y16-2013">“Event Based Emotion Classification for News Articles.”</a> In Proceedings of PACLIC, 2016. (Oral)
