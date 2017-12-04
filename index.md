@@ -2,12 +2,12 @@
 <h1> Motto </h1>
 Let us work together to MAKE SENTIMENT ANALYISIS GREAT AGAIN! 
 
-### <a href="personalprofile.html">Some words about my self</a>
+<h1><a href="personalprofile.html">Some words about my self</a></h1>
 Born in middlesouth China, Leave home at 13, Love reading,coding, and traveling. Try to learn from both humanity and science.
 
 For more information, please visit my <a href="https://yunfeilongpoly.github.io/Yunfei%20Long%20resume.pdf">CV</a>. 
 
-### <a href="personalprofile.html">Education background</a>
+<h1> <a href="personalprofile.html">Education background</a></h1>
 
 2015.08-,	        Hong Kong Polytechnic University,	Computer Science(Nautral language processing),	            Ph.D. 
 
@@ -20,13 +20,13 @@ For more information, please visit my <a href="https://yunfeilongpoly.github.io/
 
 <h1><a href="publications.html">Publications</a></h1>
 
-
-### Conference Committes
+<h1>Activities</h1>
+<h2>Conference Committes</h2>
 China National Conference on Computational Linguistics (<a href="http://www.cips-cl.org/static/CCL2017/callfor.html">CCL 2017</a>, <a href="http://www.cips-cl.org/static/CCL2016/en/index.html">CCL 2016</a>), reviewer committee 
 
 1st Workshop on Linguistic and Neuro-Cognitive Resources (<a href="http://lincr2018.cbs.polyu.edu.hk/LiNCR_workshop/">LiNCR</a>), programme committee
 
-### Contact me
+<h1>Contact me</h1>
 Telephone: (852) 5264 1401
 
 Email: <a href="mailto:csylong@comp.polyu.edu.hk">csylong@comp.polyu.edu.hk</a> OR <a href="mailto:longyunfei910911@gmail.com">longyunfei910911@gmail.com</a>  
