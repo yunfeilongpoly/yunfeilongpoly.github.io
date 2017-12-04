@@ -24,17 +24,17 @@ For more information, please visit my <a href="https://yunfeilongpoly.github.io/
 
 <h2>Conference Proceeding</h2>
 In 2017:
-1.	<b>Long, Yunfei</b>, Qin Lu, Rong Xiang, Minglei Li, and Chu-Ren Huang. (2017). <a href="http://www.aclweb.org/anthology/D17-1049">A Cognition Based Attention Model for Sentiment Analysis.</a> In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (pp. 473-482).
-2.  <b>Long, Yunfei</b>, Qin Lu, Rong Xiang, Minglei Li, and Chu-Ren Huang.  <a href="http://www.aclweb.org/anthology/I17-2043">"Fake News Detection Through Multi-Perspective Speaker Profiles."</a> In Proceedings of the Eighth International Joint Conference on Natural Language Processing (Volume 2: Short Papers), vol. 2, pp. 252-256. 2017.
+1.	<b>Long, Yunfei</b>, Qin Lu, Rong Xiang, Minglei Li, and Chu-Ren Huang. (2017). <a href="http://www.aclweb.org/anthology/D17-1049">A Cognition Based Attention Model for Sentiment Analysis.</a> In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (pp. 473-482). Acceptance rate: 26%
+2.  <b>Long, Yunfei</b>, Qin Lu, Rong Xiang, Minglei Li, and Chu-Ren Huang.  <a href="http://www.aclweb.org/anthology/I17-2043">"Fake News Detection Through Multi-Perspective Speaker Profiles."</a> In Proceedings of the Eighth International Joint Conference on Natural Language Processing (Volume 2: Short Papers), vol. 2, pp. 252-256. 2017. Acceptance rate: 31%
 3.	 <b>Long, Yunfei</b>, Qin Lu, Minglei Li, and Chu-Ren Huang. “Hidden Recursive Neural Network for Sentence Classification.” In Proceedings of CICLING, 2017.
 4.	<b>Long, Yunfei</b>, Dan Xiong, Qin Lu, Minglei Li, and Chu Ren Huang. “Named Entity Recognition for Chinese Novels in the Ming-Qing Dynasties.” In Workshop on Chinese Lexical Semantics (pp. 362-375). Springer International Publishing.
-5.	I-Hsuan Chen, <b>Long, Yunfei</b>, Qin Lu and Chu-Ren Huang. <a href="http://www.aclweb.org/anthology/K17-1006">“Leveraging Eventive Information for Better Metaphor Detection and Classification”</a>. In ACL-CONLL 2017 (CCF Top Conference, co-first author)
+5.	I-Hsuan Chen, <b>Long, Yunfei</b>, Qin Lu and Chu-Ren Huang. <a href="http://www.aclweb.org/anthology/K17-1006">“Leveraging Eventive Information for Better Metaphor Detection and Classification”</a>. In ACL-CONLL 2017 Acceptance rate: 18.5%
 6.	Minglei Li, Qin Lu, <b>Long, Yunfei</b>, and Lin Gui. <a href="https://link.springer.com/chapter/10.1007/978-3-319-63558-3_43">“Representation Learning of Multiword Expressions with Compositionality Constraint”</a> In KSEM 2017 (CCF Top Conference)
 7.	Minglei Li, Qin Lu, <b>Long, Yunfei</b>, and Lin Gui. “Hidden Recursive Neural Network for Sentence Classification.” In Proceedings of CICLING, 2017. (Poster)
-8.  Li, M., Lu, Q.,<b>Long, Yunfei</b>. (2017). Are Manually Prepared Affective Lexicons Really Useful for Sentiment Analysis. In Proceedings of the Eighth International Joint Conference on Natural Language Processing (Volume 2: Short Papers) (Vol. 2, pp. 146-150).
+8.  Li, M., Lu, Q.,<b>Long, Yunfei</b>. (2017). Are Manually Prepared Affective Lexicons Really Useful for Sentiment Analysis. In Proceedings of the Eighth International Joint Conference on Natural Language Processing (Volume 2: Short Papers) (Vol. 2, pp. 146-150).Acceptance rate: 31%
 
 In 2016:
-1.	<b> Long, Yunfei</b>, Qin Lu, Yue Xiao, Minglei Li, and Chu Ren Huang. <a href="http://ieeexplore.ieee.org/document/7841066/">“Domain-Specific User Preference Prediction Based on Multiple User Activities”</a>. In IEEE, Big data 2016. 
+1.	<b> Long, Yunfei</b>, Qin Lu, Yue Xiao, Minglei Li, and Chu Ren Huang. <a href="http://ieeexplore.ieee.org/document/7841066/">“Domain-Specific User Preference Prediction Based on Multiple User Activities”</a>. In IEEE, Big data 2016. Acceptance rate: 18.7%
 2.	Minglei Li, Da Wang, Qin Lu, and <b>Yunfei Long</b>. <a href="https://aclanthology.info/papers/Y16-2013/y16-2013">“Event Based Emotion Classification for News Articles.”</a> In Proceedings of PACLIC, 2016. (Oral)
 3.	Minglei Li, <b>Yunfei Long</b>, Qin Lu. <a href="http://ieeexplore.ieee.org/abstract/document/7875949/">“A Regression Approach to Valence-Arousal Ratings of Words from Word Embedding.”</a> In Proceedings of IALP, 2016 (Oral, Best Paper Award).
 4.	Minglei Li, Qin Lu, Lin Gui, <b>Yunfei Long</b>. <a href="https://link.springer.com/chapter/10.1007/978-3-319-47674-2_33">“Towards Scalable Emotion Classification in Microblog Based on Noisy Training Data.”</a> In Proceedings of CCL 2016. (Poster)
