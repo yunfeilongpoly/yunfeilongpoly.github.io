@@ -20,8 +20,8 @@ For more information, please visit my <a href="https://yunfeilongpoly.github.io/
 
 <h1>Publications</h1>
 <h2>Journal</h2>
-1.	Qingqing Zhao, Chu-Ren Huang, and <b>Yunfei Long</b>. “Synaesthesia in Chinese: A corpus-based study of gustatory adjectives in Mandarin” To appear in Linguistics. (SSCI, Q1)
-2.	Minglei Li, Qin Lu, <b>Yunfei Long</b>, and Lin Gui. <a href="http://ieeexplore.ieee.org/abstract/document/7968355/">“Inferring Affective Meanings of Words from Word Embedding.”</a> [Special Issue]. In the Journal of IEEE Transactions on Affective Computing, 2017 (CCF Top Journal).
+1.	Qingqing Zhao, Chu-Ren Huang, and <b>Yunfei Long</b>. “Synaesthesia in Chinese: A corpus-based study of gustatory adjectives in Mandarin” To appear in Linguistics. (SSCI impact factor 0.309)
+2.	Minglei Li, Qin Lu, <b>Yunfei Long</b>, and Lin Gui. <a href="http://ieeexplore.ieee.org/abstract/document/7968355/">“Inferring Affective Meanings of Words from Word Embedding.”</a> [Special Issue]. In the Journal of IEEE Transactions on Affective Computing, 2017 (SCI impact factor: 3.149).
 
 <h2>Conference Proceeding</h2>
 In 2017:
