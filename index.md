@@ -1,5 +1,5 @@
 <img src="http://yunfeilongpoly.github.io/IMG_4496.jpg" widht="1024" height="768"/>
-### Motto
+<h1> Motto </h1>
 Let us work together to MAKE SENTIMENT ANALYISIS GREAT AGAIN! 
 
 ### <a href="personalprofile.html">Some words about my self</a>
