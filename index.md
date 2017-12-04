@@ -30,9 +30,9 @@ In 2017:
 3.	 <b>Long, Yunfei</b>, Qin Lu, Minglei Li, and Chu-Ren Huang. “Hidden Recursive Neural Network for Sentence Classification.” In Proceedings of CICLING, 2017.
 4.	<b>Long, Yunfei</b>, Dan Xiong, Qin Lu, Minglei Li, and Chu Ren Huang. “Named Entity Recognition for Chinese Novels in the Ming-Qing Dynasties.” In Workshop on Chinese Lexical Semantics (pp. 362-375). Springer International Publishing.
 5.	I-Hsuan Chen, <b>Long, Yunfei</b>, Qin Lu and Chu-Ren Huang. <a href="http://www.aclweb.org/anthology/K17-1006">“Leveraging Eventive Information for Better Metaphor Detection and Classification”</a>. In ACL-CONLL 2017. Acceptance rate: 18.5%
-6.	Minglei Li, Qin Lu, <b>Long, Yunfei</b>, and Lin Gui. <a href="https://link.springer.com/chapter/10.1007/978-3-319-63558-3_43">“Representation Learning of Multiword Expressions with Compositionality Constraint”</a> In KSEM 2017 (CCF Top Conference)
-7.	Minglei Li, Qin Lu, <b>Long, Yunfei</b>, and Lin Gui. “Hidden Recursive Neural Network for Sentence Classification.” In Proceedings of CICLING, 2017. (Poster)
-8.  Li, M., Lu, Q.,<b>Long, Yunfei</b>. (2017). Are Manually Prepared Affective Lexicons Really Useful for Sentiment Analysis. In Proceedings of the Eighth International Joint Conference on Natural Language Processing (Volume 2: Short Papers) (Vol. 2, pp. 146-150).Acceptance rate: 31%
+6.	Minglei Li, Qin Lu, <b>Long, Yunfei</b>, and Lin Gui. <a href="https://link.springer.com/chapter/10.1007/978-3-319-63558-3_43">“Representation Learning of Multiword Expressions with Compositionality Constraint”</a> In KSEM 2017. Acceptance rate:35%, Best Student Paper
+7.	Minglei Li, Qin Lu, <b>Long, Yunfei</b>, and Lin Gui. “Hidden Recursive Neural Network for Sentence Classification.” In Proceedings of CICLING, 2017. 
+8.  Li, M., Lu, Q.,<b>Long, Yunfei</b>. (2017). Are Manually Prepared Affective Lexicons Really Useful for Sentiment Analysis. In Proceedings of the Eighth International Joint Conference on Natural Language Processing (Volume 2: Short Papers) (Vol. 2, pp. 146-150). Acceptance rate: 31%
 
 In 2016:
 1.	<b> Long, Yunfei</b>, Qin Lu, Yue Xiao, Minglei Li, and Chu Ren Huang. <a href="http://ieeexplore.ieee.org/document/7841066/">“Domain-Specific User Preference Prediction Based on Multiple User Activities”</a>. In IEEE, Big data 2016. Acceptance rate: 18.7%
