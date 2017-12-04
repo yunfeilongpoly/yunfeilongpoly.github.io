@@ -1,32 +1,11 @@
 <img src="http://yunfeilongpoly.github.io/IMG_4496.jpg" widht="1024" height="768"/>
-<script language="JavaScript" type="text/javascript">
-function showTime(){
-var mytime=new Date();
-var h=mytime.getHours();
-var m=mytime.getMinutes();
-var s=mytime.getSeconds();
-if(h<10) h="0"+h;
-if(m<10) m="0"+m;
-if(s<10) s="0"+s;
-word.innerHTML=h+":"+m+":"+s;
-setTimeout("showTime()",1000);
-}
-function MM_jumpMenu(targ,selObj,restore){ //v3.0
-eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-if (restore) selObj.selectedIndex=0;
-}
-function MM_findObj(n, d) { //v4.01
-var p,i,x; if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-function MM_jumpMenuGo(selName,targ,restore){ //v3.0
-var selObj = MM_findObj(selName); if (selObj) MM_jumpMenu(targ,selObj,restore);
-}
+<div id="time1">
+            id is hang_2
+</div>
+<script>            
+setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleString();", 1000);
 </script>
-<div class="STYLE3" id="word"> </div>
+
 <h1> Motto </h1>
 Let us work together to MAKE SENTIMENT ANALYISIS GREAT AGAIN! 
 
