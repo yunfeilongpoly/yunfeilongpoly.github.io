@@ -9,7 +9,7 @@ For more information, please visit my <a href="https://yunfeilongpoly.github.io/
 
 <h1> <a href="personalprofile.html">Education background</a></h1>
 
-2015.08-,	        Hong Kong Polytechnic University,	Computer Science(Nautral language processing),	            Ph.D. 
+2015.07-,	        Hong Kong Polytechnic University,	Computer Science(Nautral language processing),	            Ph.D. 
 
 2013.08-2014.11, 	University of Edinburgh,	              Cognitive Science,	            M.Sc.
 
