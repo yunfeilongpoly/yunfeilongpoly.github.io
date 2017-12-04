@@ -19,6 +19,7 @@ For more information, please visit my <a href="https://yunfeilongpoly.github.io/
 
 
 <h1><a href="publications.html">Publications</a></h1>
+Please visit the following pages: <a href="publications.html">my publication</a>
 
 <h1>Activities</h1>
 <h2>Conference Committes</h2>
