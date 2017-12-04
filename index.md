@@ -1,4 +1,4 @@
-<img src="http://yunfeilongpoly.github.io/IMG_4496.JPG" />
+<img src="http://yunfeilongpoly.github.io/IMG_4496.jpg" />
 ### Motto
 Let us work together to MAKE SENTIMENT ANALYISIS GREAT AGAIN! 
 
