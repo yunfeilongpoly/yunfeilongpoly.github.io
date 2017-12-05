@@ -39,7 +39,7 @@ For more information, please visit my <a href="https://yunfeilongpoly.github.io/
 
 2015.07-,	        Hong Kong Polytechnic University,	Computer Science(Nautral language processing),	            Ph.D. 
 
-2013.08-2014.11, 	University of Edinburgh,	              Cognitive Science,	            M.Sc.
+2013.08-2014.11, 	University of Edinburgh,	            Cognitive Science,	            M.Sc.
 
 2009.09-2013.06, 	Jilin University,                     Computer Science(Minor),	         B.SC.
 
