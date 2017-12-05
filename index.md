@@ -7,7 +7,36 @@ setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleStr
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+<style>
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+}
+li
+{
+float:left;
+}
+a:link,a:visited
+{
+display:block;
+width:120px;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#bebebe;
+text-align:center;
+padding:4px;
+text-decoration:none;
+text-transform:uppercase;
+}
+a:hover,a:active
+{
+background-color:#cc0000;
+}
+
+</style>
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
