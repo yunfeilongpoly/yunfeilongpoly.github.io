@@ -17,9 +17,10 @@ setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleStr
     </div>
     <div id="navbar" class="collapse navbar-collapse">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Short Bio</a></li>
-        <li><a href="publications">Publications</a></li>     
-        <li><a href="personalprofile.html">Personal</a></li>     
+        <li class="active"><a href="index.html">Home</a></li>
+        <li><a href="publications.html">Publications</a></li>     
+        <li><a href="personalprofile.html">Personal</a></li> 
+        <li><a href="index.html">Contact</a></li>  
       </ul>
     </div><!--/.nav-collapse -->
   </div>
