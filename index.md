@@ -13,13 +13,13 @@ setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleStr
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Luheng's Homepage</a>
+      <a class="navbar-brand" href="#">YUNFEI's Homepage</a>
     </div>
     <div id="navbar" class="collapse navbar-collapse">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Short Bio</a></li>
-        <li><a href="#publications">Publications</a></li>     
-        <li><a href="#personal">Personal</a></li>     
+        <li><a href="publications">Publications</a></li>     
+        <li><a href="personalprofile.html">Personal</a></li>     
       </ul>
     </div><!--/.nav-collapse -->
   </div>
