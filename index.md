@@ -1,11 +1,10 @@
 <img src="http://yunfeilongpoly.github.io/IMG_4496.jpg" widht="1024" height="768"/>
-<div id="time1">
-            id is hang_2
-</div>
+<div id="time1"> id is hang_2 </div>
 <script>            
 setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleString();", 1000);
 </script>
 
+<html>
 <head>
 <style>
 ul
@@ -47,7 +46,7 @@ background-color:#cc0000;
 <li><a href="index.html">Contact</a></li>
 </ul>
 </body>
-
+</html>
 
 <h1> Motto </h1>
 Let us work together to MAKE SENTIMENT ANALYISIS GREAT AGAIN! 
