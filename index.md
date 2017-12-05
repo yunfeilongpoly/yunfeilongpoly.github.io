@@ -15,7 +15,6 @@ setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleStr
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">YUNFEI's Homepage</a>
     </div>
     <div id="navbar" class="collapse navbar-collapse">
       <ul class="nav navbar-nav">
