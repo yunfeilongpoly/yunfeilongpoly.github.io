@@ -4,49 +4,26 @@
 setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleString();", 1000);
 </script>
 
-<html>
-<head>
-<style>
-ul
-{
-list-style-type:none;
-margin:0;
-padding:0;
-overflow:hidden;
-}
-li
-{
-float:left;
-}
-a:link,a:visited
-{
-display:block;
-width:120px;
-font-weight:bold;
-color:#FFFFFF;
-background-color:#bebebe;
-text-align:center;
-padding:4px;
-text-decoration:none;
-text-transform:uppercase;
-}
-a:hover,a:active
-{
-background-color:#cc0000;
-}
-
-</style>
-</head>
-
-<body>
-<ul>
-<li><a href="index.html">Home</a></li>
-<li><a href="personalprofile.html">Profile</a></li>
-<li><a href="publications.html">Publication</a></li>
-<li><a href="index.html">Contact</a></li>
-</ul>
-</body>
-</html>
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Luheng's Homepage</a>
+    </div>
+    <div id="navbar" class="collapse navbar-collapse">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Short Bio</a></li>
+        <li><a href="#publications">Publications</a></li>     
+        <li><a href="#personal">Personal</a></li>     
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</nav>
 
 <h1> Motto </h1>
 Let us work together to MAKE SENTIMENT ANALYISIS GREAT AGAIN! 
