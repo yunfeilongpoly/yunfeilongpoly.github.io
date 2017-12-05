@@ -41,10 +41,10 @@ background-color:#cc0000;
 
 <body>
 <ul>
-<li><a href="#home">Home</a></li>
-<li><a href="#news">Profile</a></li>
-<li><a href="#contact">Publication</a></li>
-<li><a href="#about">Contact</a></li>
+<li><a href="index.html">Home</a></li>
+<li><a href="personalprofile.html">Profile</a></li>
+<li><a href="publications.html">Publication</a></li>
+<li><a href="index.html">Contact</a></li>
 </ul>
 </body>
 
