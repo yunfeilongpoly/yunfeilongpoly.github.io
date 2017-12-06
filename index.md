@@ -5,10 +5,6 @@ setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleStr
 </script>
 
 <nav class="navbar navbar-inverse navbar-fixed-top">
-  <div class="container">
-    <div class="navbar-header">
-<style>
-    </div>
     <div id="navbar" class="collapse navbar-collapse">
       <ul class="nav navbar-nav">
         <li class="active"><a href="index.html">Home</a></li>
