@@ -13,7 +13,6 @@ setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleStr
         <li><a href="index.html">Contact</a></li>  
         <li><a href="Team_resource.html">Team resources</a></li>  
       </ul>
-    </div><!--/.nav-collapse -->
   </div>
 </nav>
 
