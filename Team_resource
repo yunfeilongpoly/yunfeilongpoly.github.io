@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><title>PolyU - Chinese Computing Group</title>
+
+<meta name="description" content="PolyU - Chinese Computing Group">
+<meta name="keywords" content="linguistics, computational, linguist, corpus, distributional, semantics, ontology, word, relation, metaphor, cognition, irony, english, chinese, italian, hungarian, german, french, spanish, CBS, university, research, academia, study, PolyU, polytechnic, brain, smart, Hong Kong, freedom, corpora, vector, space, model">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=9">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/image_slide.js"></script>
+<style type="text/css">
+<!--
+.STYLE2 {font-family: "宋体"}
+-->
+</style>
+</head>
+<body style="color: rgb(0, 0, 0);" alink="#ee0000" link="#0000ee" vlink="#551a8b">
+<div id="main">
+<div id="header">
+<div id="banner">
+<div style="font-weight: bold;" id="welcome">
+<h2><span style="color: rgb(255, 204, 51);"><span style="color: rgb(255, 204, 51);"><span style="color: (255, 204, 51);">PolyU -</span>
+</span>Department of</span><span style="color: rgb(255, 204, 51);"> <span style="color: rgb(255, 204, 51);">Computing</span>
+&amp CBS;</span><br style="color: rgb(255, 204, 51);">
+<span style="color: rgb(255, 204, 51);"> Chinese <span style="color: rgb(255, 204, 51);">Comp</span>uting</span>
+<span style="color: rgb(255, 204, 51);"><span style="color: (255, 204, 51);">Group</span></span></h2>
+<h2><span style="color: rgb(255, 204, 51);"><span style="color: (255, 204, 51);"></span></span></h2>
+</div>
+<!--close welcome-->
+<div id="menubar">
+<ul id="menu">
+<li><a href="index.html">Home</a></li>
+<li  class="current"><a href="personalprofile.html">Personal Profile</a></li>
+<li><a href="projects.html">Projects</a></li>
+<li><a href="publications.html">Publications</a></li>
+<li><a href="achievements.html">Achievements</a></li>
+<!--<li><a href="contact.html">Contacts</a></li>-->
+</ul>
+</div>
+<!--close menubar--> </div>
+<!--close banner--> </div>
+<!--close header-->
+<div id="site_content">
+<div class="slideshow">
+<ul class="slideshow">
+<li class="show"><img alt="PolyU Linguistic &amp; Language Group" src="home_2.png" style="left: 79px; width: 900px; height: 346px;"></li>
+</ul>
+</div>
+<!--close slideshow-->
+<div id="content">
+<div class="content_item">
+<h1>YUNFEI LONG (<span class="STYLE2">龙云飞</span>),
+PhD Candidate</h1>
+<h1> </h1>
+<p>
+</p>
+<p class="MsoNormal"><img style="float: left;" src="my_photo_3.jpg" height="302" width="255"></p>
+<p class="MsoNormal">&nbsp; &nbsp; &nbsp;<strong>
+PhD Candidate </strong></p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;
+&nbsp; CBS Department, The Hong Kong Polytechnic University</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;
+&nbsp; Email: longyunfei910911 [@] gmail.com, csylong [@] comp.polyu.edu.hk</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;
+&nbsp;<strong> Research Interests:</strong></p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;
+&nbsp; Sentiment analysis, Cognition grounded data, Affective Knowledge base, User profile and network, Deep learning.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;
+&nbsp;<strong> Address:</strong></p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;
+&nbsp; Room QT416, The Hong Kong Polytechnic University, Kowloon, Hong
+Kong</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">I'm from Shaoyang (邵阳), YHunan
+Province (湖南), Mainland, China. I received my BSc and BA degree in Computer
+Science/Linguistic from <a href="http://www.jlu.edu.cn/">JiLin
+University</a> and MSc degree from <a href="https://www.ed.ac.uk/informatics/">School of Informatics</a>,
+<a href="https://www.ed.ac.uk/">University of Edinburgh</a>.
+I'm now a PhD candidate in <a href="https://www.comp.polyu.edu.hk/">COMP
+department</a>, <a href="http://www.polyu.edu.hk/">PolyU</a>,
+studying now on the user profile based sentiment analysis system under the supervision of<a href="http://www4.comp.polyu.edu.hk/~csluqin/"> Prof Lu Qin</a> and <a href="http://158.132.124.177/%7Echurenhuang/"> Prof. Chu-Ren
+Huang</a>. </p>
+<p class="MsoNormal">I am interested in sentiment analysis problems including aspect sentiment analysis, sentence/document sentiment analysis, and user/product based sentiment analysis.
+My research interests also include user preference and profile in complex user social network. </p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><strong>Experience</strong></p>
+<ul>
+<li>2015.07 ~ Present.<span class="MsoNormal">&nbsp;
+PhD </span>study in The Hong Kong Polytechnic University, Hong
+Kong..</li>
+<li>2015.01 ~ 2015.06. Work as a research assistant in Nanjing Normal University, Nanjing, China.</li>
+<li>2013.09 ~ 2014.11. Master study in University of Edinburgh,
+Beijing, China.</li>
+<li> 2011.06 ~ 2013.07. Undergraduate study in JiLin University (double degree), Changchun, JiLin.</li>
+<li>2009.09 ~ 2013.07. Undergraduate study in JiLin University, Changchun, JiLin.</li>
+</ul>
+<p><br class="MsoNormal">
+<br>
+</p>
+<p></p>
+</div>
+<!--close content_item--> </div>
+<!--close content--> </div>
+<!--close site_content-->
+</div>
+<!--close main-->
+<div id="footer"> <a href="http://validator.w3.org/check?uri=referer">Valid XHTML</a>
+|&nbsp;<span style="color: black;">© 2017 PolyU
+Chinese Computing Group<br>
+Webmaster: <a href="index.html">YUNFEU LONG</a>,
+</span>
+<!--close footer--> </div>
+</body></html>
