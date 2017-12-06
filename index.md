@@ -8,13 +8,6 @@ setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleStr
   <div class="container">
     <div class="navbar-header">
 <style>
- <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-</style>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
     </div>
     <div id="navbar" class="collapse navbar-collapse">
       <ul class="nav navbar-nav">
@@ -22,6 +15,7 @@ setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleStr
         <li><a href="publications.html">Publications</a></li>     
         <li><a href="personalprofile.html">Personal</a></li> 
         <li><a href="index.html">Contact</a></li>  
+        <li><a href="Team_resource.html">Team resources</a></li>  
       </ul>
     </div><!--/.nav-collapse -->
   </div>
