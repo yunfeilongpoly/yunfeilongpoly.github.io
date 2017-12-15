@@ -26,7 +26,7 @@ For more information, please visit my <a href="https://yunfeilongpoly.github.io/
 
 <h1> <a href="personalprofile.html">Education background</a></h1>
 
-2015.07-,	        Hong Kong Polytechnic University,	Computer Science(Nautral language processing),	            Ph.D. Supervised by Prof,MH <a href="http://www4.comp.polyu.edu.hk/~csluqin/">Qin Lu</a> and Chair Prof <a href="http://www.cbs.polyu.edu.hk/staff-en/churen-huang.php?&output=p">Chu-ren Huang</a> 
+2015.07-,	        Hong Kong Polytechnic University,	Computer Science(Nautral language processing),	            Ph.D.       Supervised by Prof,MH <a href="http://www4.comp.polyu.edu.hk/~csluqin/">Qin Lu</a> and Chair Prof <a href="http://www.cbs.polyu.edu.hk/staff-en/churen-huang.php?&output=p">Chu-ren Huang</a> 
 
 2013.08-2014.11, 	University of Edinburgh,	            Cognitive Science,	            M.Sc.
 
