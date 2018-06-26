@@ -22,7 +22,7 @@ Let us work together to MAKE SENTIMENT ANALYISIS GREAT AGAIN!
 <h1><a href="personalprofile.html">Some words about my self</a></h1>
 Born in middlesouth China, Leave home at 13, Love reading,coding, and traveling. Try to learn from both humanity and science.
 
-For more information, please visit my <a href="https://yunfeilongpoly.github.io/Yunfei%20Long%20resume.pdf">CV</a> and <a href="personalprofile.html">My profile page</a>. 
+For more information, please visit my <a href="yunfeilongpoly.github.io/Longyunfei resume V3.pdf">CV</a> and <a href="personalprofile.html">My profile page</a>. 
 
 <h1> <a href="personalprofile.html">Education background</a></h1>
 
