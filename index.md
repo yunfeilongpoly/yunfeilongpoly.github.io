@@ -48,7 +48,7 @@ COLING 2016/2018, reviewer commitee
 
 ACM Transactions on Asian Language Information Processing (<a href="https://dl.acm.org/citation.cfm?id=J820">TALIP</a>), reviewer
 
-Journal of Experimental & Theoretical Artificial Intelligence (<a href="https://www.tandfonline.com/toc/teta20/current">, JETAI</a>), reviewer
+Journal of Experimental & Theoretical Artificial Intelligence (<a href="https://www.tandfonline.com/toc/teta20/current">JETAI</a>), reviewer
 
 <h1>Contact me</h1>
 Telephone: (852) 5264 1401
