@@ -17,7 +17,7 @@ setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleStr
 </nav>
 
 <h1> Motto </h1>
-Let us work together to MAKE SENTIMENT ANALYISIS GREAT AGAIN! 
+Let us work together to MAKE SENTIMENT ANALYISIS REASONABLE AGAIN! 
 
 <h1><a href="personalprofile.html">Some words about my self</a></h1>
 Born in middlesouth China, Leave home at 13, Love reading,coding, and traveling. Try to learn from both humanity and science.
