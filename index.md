@@ -50,6 +50,8 @@ ACM Transactions on Asian Language Information Processing (<a href="https://dl.a
 
 Journal of Experimental & Theoretical Artificial Intelligence (<a href="https://www.tandfonline.com/toc/teta20/current">JETAI</a>), reviewer
 
+IEEE Access (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639"> IEEE Access </a>),reviewer
+
 <h1>Contact me</h1>
 Telephone: (852) 5264 1401
 
