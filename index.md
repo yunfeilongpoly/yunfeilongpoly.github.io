@@ -43,7 +43,9 @@ Please visit the following pages: <a href="publications.html">my publication</a>
 China National Conference on Computational Linguistics (<a href="http://www.cips-cl.org/static/CCL2017/callfor.html">CCL 2017</a>, <a href="http://www.cips-cl.org/static/CCL2016/en/index.html">CCL 2016</a>), reviewer committee 
 
 
-COLING 2016/2018, reviewer commitee
+COLING <a href="http://coling2018.org/http://coling2018.org/">2016/2018</a>, reviewer commitee
+
+PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>, reviewer commitee
 
 1st Workshop on Linguistic and Neuro-Cognitive Resources (<a href="http://lincr2018.cbs.polyu.edu.hk/LiNCR_workshop/">LiNCR</a>), programme committee
 
