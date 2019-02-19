@@ -25,7 +25,7 @@ Born in middlesouth China, Leave home at 13, Love reading,coding, and traveling.
 For more information, please visit my <a href="https://yunfeilongpoly.github.io/Longyunfei%20resume%20V3.pdf">CV</a> and <a href="personalprofile.html">My profile page</a>. 
 
 <h1> <a href="personalprofile.html">Working expeniences</a></h1>
-2019.01-Now,         Horizon Digital Economy Center, University of Nottingham 
+2019.01-Now,         Research Fellow, Horizon Digital Economy Center, University of Nottingham 
 
 <h1> <a href="personalprofile.html">Education background</a></h1>
 
