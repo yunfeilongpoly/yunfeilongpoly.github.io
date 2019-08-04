@@ -19,7 +19,7 @@ setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleStr
 <h1> Motto </h1>
 The combination of NLP and Mental Health would make you happier! 
 
-<h1><a href="personalprofile.html">Some words about my self</a></h1>
+<h1><a href="personalprofile.html">About my self</a></h1>
 Born in middlesouth China, Leave home at 13, Love reading,coding, and traveling. Try to learn from both humanity and science.
 
 For more information, please visit my <a href="https://github.com/yunfeilongpoly/yunfeilongpoly.github.io/blob/master/My%20full%20research%20CV.pdf">CV</a> and <a href="personalprofile.html">My profile page</a>. 
