@@ -27,6 +27,8 @@ For more information, please visit my <a href="https://yunfeilongpoly.github.io/
 <h1> <a href="personalprofile.html">Working expeniences</a></h1>
 2019.01-Now,         Research Fellow, Horizon digital economy research institute, University of Nottingham 
 
+2019.03-Now,         Xenzone, Research Advisory Board member
+
 <h1> <a href="personalprofile.html">Education background</a></h1>
 
 2015.07-2018.12	        Hong Kong Polytechnic University,	Computer Science(Nautral language processing),	            Ph.D.       Supervised by Prof,MH <a href="http://www4.comp.polyu.edu.hk/~csluqin/">Qin Lu</a> and Chair Prof <a href="http://www.cbs.polyu.edu.hk/staff-en/churen-huang.php?&output=p">Chu-ren Huang</a> 
