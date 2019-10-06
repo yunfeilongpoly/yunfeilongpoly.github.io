@@ -22,7 +22,7 @@ The combination of NLP and Mental Health would make you happier!
 <h1><a href="personalprofile.html">About my self</a></h1>
 Born in middlesouth China, Leave home at 13, Love reading,coding, and traveling. Try to learn from both humanity and science.
 
-For more information, please visit my <a href="https://github.com/yunfeilongpoly/yunfeilongpoly.github.io/blob/master/My%20full%20research%20CV.pdf">CV</a> and <a href="personalprofile.html">My profile page</a>. 
+For more information, please visit my <a href="https://https://github.com/yunfeilongpoly/yunfeilongpoly.github.io/blob/master/Research%20CV%20YUNFEI%20LONG%20201910.pdf">CV</a> and <a href="personalprofile.html">My profile page</a>. 
 
 <h1> <a href="personalprofile.html">Working expeniences</a></h1>
 2019.01-Now,         Research Fellow, Horizon digital economy research institute, University of Nottingham 
