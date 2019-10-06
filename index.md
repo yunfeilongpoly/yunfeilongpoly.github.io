@@ -61,6 +61,9 @@ Journal of Experimental & Theoretical Artificial Intelligence (<a href="https://
 IEEE Access (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639"> IEEE Access </a>),reviewer
 
 EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">2019</a>, reviewer commitee
+
+AAAI 2020, reviewer commitee
+
 <h1>Contact me</h1>
 Telephone: (44) 7422590236
 
