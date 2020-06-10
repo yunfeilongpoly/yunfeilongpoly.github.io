@@ -58,19 +58,21 @@ PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>, reviewer comm
 
 1st Workshop on Linguistic and Neuro-Cognitive Resources (<a href="http://lincr2018.cbs.polyu.edu.hk/LiNCR_workshop/">LiNCR</a>), programme committee
 
-ACM Transactions on Asian Language Information Processing (<a href="https://dl.acm.org/citation.cfm?id=J820">TALIP</a>), reviewer
-
-Journal of Experimental & Theoretical Artificial Intelligence (<a href="https://www.tandfonline.com/toc/teta20/current">JETAI</a>), reviewer
-
-<a href="https://www.journals.elsevier.com/neurocomputing"> Neurocomputing </a>, reviewer
-
-<a href="https://www.springer.com/journal/530"> Multimedia Systems </a>, reviewer
-
-<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639"> IEEE Access </a>,reviewer
-
 EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">2019</a>, reviewer commitee
 
 AAAI 2020, reviewer commitee
+
+I am the reviewer of bellowing journals:
+
+ACM Transactions on Asian Language Information Processing (<a href="https://dl.acm.org/citation.cfm?id=J820">TALIP</a>)
+
+Journal of Experimental & Theoretical Artificial Intelligence (<a href="https://www.tandfonline.com/toc/teta20/current">JETAI</a>)
+
+<a href="https://www.journals.elsevier.com/neurocomputing"> Neurocomputing </a>
+
+<a href="https://www.springer.com/journal/530"> Multimedia Systems </a>
+
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639"> IEEE Access </a>
 
 <h1>Contact me</h1>
 Telephone: (44) 7422590236
