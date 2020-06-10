@@ -26,6 +26,7 @@ For more information, please visit my <a href="https://github.com/yunfeilongpoly
 
 <h1> <a href="personalprofile.html">Working expeniences</a></h1>
 2020.4-Now,            Lecturer in NLP, School of Computer Science and Electronic Engineering, University of Essex
+                       Teaching assignment: CE314/887 Natural language engineering 
 
 
 2019.01-2020.3,        Research Fellow, Horizon digital economy research institute, University of Nottingham 
