@@ -62,7 +62,9 @@ ACM Transactions on Asian Language Information Processing (<a href="https://dl.a
 
 Journal of Experimental & Theoretical Artificial Intelligence (<a href="https://www.tandfonline.com/toc/teta20/current">JETAI</a>), reviewer
 
-Neurocomputing (<a href="https://www.journals.elsevier.com/neurocomputing"> Neurocomputing </a>)),reviewer
+(<a href="https://www.journals.elsevier.com/neurocomputing"> Neurocomputing </a>)),reviewer
+
+(<a href="https://www.springer.com/journal/530"> Multimedia Systems </a>)),reviewer
 
 IEEE Access (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639"> IEEE Access </a>),reviewer
 
