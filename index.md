@@ -77,6 +77,6 @@ Journal of Experimental & Theoretical Artificial Intelligence (<a href="https://
 <h1>Contact me</h1>
 Telephone: (44) 7422590236
 
-Email: <a href="mailto:Yunfei.Long@nottingham.ac.uk">Yunfei.Long@nottingham.ac.uk</a> OR <a href="mailto:longyunfei910911@gmail.com">longyunfei910911@gmail.com</a>  
+Email: <a href="mailto:yl20051@essex.ac.uk">yl20051@essex.ac.uk</a> OR <a href="mailto:longyunfei910911@gmail.com">longyunfei910911@gmail.com</a>  
 
 Find me in: <a href="https://www.linkedin.com/in/yunfei-long-3342b08a/">LinkIn</a>, <a href="https://scholar.google.com.hk/citations?user=2gKA6BUAAAAJ&hl=en">Google Scholar</a>, and <a href="https://www.researchgate.net/profile/Yunfei_Long4">Researchgate</a>
