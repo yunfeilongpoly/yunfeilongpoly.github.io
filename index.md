@@ -58,9 +58,11 @@ PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>, reviewer comm
 
 1st Workshop on Linguistic and Neuro-Cognitive Resources (<a href="http://lincr2018.cbs.polyu.edu.hk/LiNCR_workshop/">LiNCR</a>), programme committee
 
-EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">2019</a>, reviewer commitee
+EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">2019,2020</a>, reviewer commitee
 
 AAAI 2020, reviewer commitee
+
+CLSW 2019-2021, reviewer commitee
 
 I am the reviewer of bellowing journals:
 
