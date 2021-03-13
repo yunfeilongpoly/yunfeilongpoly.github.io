@@ -48,6 +48,17 @@ For more information, please visit my <a href="https://github.com/yunfeilongpoly
 Please visit the following pages: <a href="publications.html">my publication</a>
 
 <h1>Activities</h1>
+
+<h2>Professional Services</h2>
+
+Data Structures and Algorithms (Second year undergraduate)
+
+Natural Language Engineering (Final year undergraduate and MSc students)
+
+Information Retrieval (Final year undergraduate and MSc students)
+
+
+
 <h2>Professional Services</h2>
 China National Conference on Computational Linguistics (<a href="http://www.cips-cl.org/static/CCL2017/callfor.html">CCL 2017</a>, <a href="http://www.cips-cl.org/static/CCL2016/en/index.html">CCL 2016</a>), reviewer committee 
 
