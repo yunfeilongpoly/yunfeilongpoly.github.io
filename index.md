@@ -54,7 +54,7 @@ China National Conference on Computational Linguistics (<a href="http://www.cips
 
 COLING <a href="http://coling2018.org/http://coling2018.org/">2016/2018</a>, reviewer commitee
 
-PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>, reviewer commitee
+PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>-2020, reviewer commitee
 
 1st Workshop on Linguistic and Neuro-Cognitive Resources (<a href="http://lincr2018.cbs.polyu.edu.hk/LiNCR_workshop/">LiNCR</a>), programme committee
 
