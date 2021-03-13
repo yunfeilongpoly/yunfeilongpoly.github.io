@@ -49,7 +49,7 @@ Please visit the following pages: <a href="publications.html">my publication</a>
 
 <h1>Activities</h1>
 
-<h2>Professional Services</h2>
+<h2>Teaching and Supervision</h2>
 
 Data Structures and Algorithms (Second year undergraduate)
 
