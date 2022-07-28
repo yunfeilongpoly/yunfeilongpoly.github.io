@@ -26,12 +26,10 @@ For more information, please visit my <a href="https://github.com/yunfeilongpoly
 
 <h1> <a href="personalprofile.html">Working expeniences</a></h1>
 2020.4-Now,            Lecturer in NLP, School of Computer Science and Electronic Engineering, University of Essex
-                       Teaching assignment: CE314/887 Natural language engineering 
-
 
 2019.01-2020.3,        Research Fellow, Horizon digital economy research institute, University of Nottingham 
 
-2019.03-2019.12,         Xenzone, Research Advisory Board member
+2019.03-2019.12,       Xenzone, Research Advisory Board member
 
 <h1> <a href="personalprofile.html">Education background</a></h1>
 
@@ -39,9 +37,8 @@ For more information, please visit my <a href="https://github.com/yunfeilongpoly
 
 2013.08-2014.11, 	University of Edinburgh,	            Cognitive Science,	            M.Sc.
 
-2009.09-2013.06, 	Jilin University,                     Computer Science(Minor),	         B.SC.
+2009.09-2013.06, 	Jilin University,                     Computer Science(Minor),Linguistics (Major)	         B.SC/B.A.
 
-2009.09-2013.06, 	Jilin University,	                    Linguistics (Major),              B.A. 
 
 
 <h1><a href="publications.html">Publications</a></h1>
@@ -50,8 +47,6 @@ Please visit the following pages: <a href="publications.html">my publication</a>
 <h1>Activities</h1>
 
 <h2>Teaching and Supervision</h2>
-
-Data Structures and Algorithms (Second year undergraduate)
 
 Natural Language Engineering (Final year undergraduate and MSc students)
 
