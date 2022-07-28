@@ -57,7 +57,7 @@ Natural Language Engineering (Final year undergraduate and MSc students)
 
 Information Retrieval (Final year undergraduate and MSc students)
 
-Currently I have two supervised students, and I am opening for supervising new PhD students in health care related text processing.
+Currently I am supervising two PhD students, and I am opening for supervising new PhD students in health care related text processing.
 
 
 
