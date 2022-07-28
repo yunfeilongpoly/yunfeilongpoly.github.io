@@ -57,23 +57,23 @@ Natural Language Engineering (Final year undergraduate and MSc students)
 
 Information Retrieval (Final year undergraduate and MSc students)
 
+Currently I have two supervised students, and I am opening for supervising new PhD students in health care related text processing.
+
 
 
 <h2>Professional Services</h2>
-China National Conference on Computational Linguistics, since 2016 (<a href="http://cips-cl.org/static/CCL2022/index.html"> reviewer committee and Area Chair 
+China National Conference on Computational Linguistics, since 2016 (<a href="http://cips-cl.org/static/CCL2022/index.html"> reviewer committee and Area Chair)
 
 
-COLING <a href="http://coling2018.org/http://coling2018.org/">2016/2018</a>, reviewer commitee
+COLING <a href="http://coling2018.org/http://coling2018.org/">2016/2018</a>, reviewer 
 
-PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>-2020, reviewer commitee
-
-1st Workshop on Linguistic and Neuro-Cognitive Resources (<a href="http://lincr2018.cbs.polyu.edu.hk/LiNCR_workshop/">LiNCR</a>), programme committee
+PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>-2020, reviewer 
 
 EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">2019,2020,2021,2022</a>, reviewer commitee
 
-AAAI 2020, reviewer commitee
+AAAI 2020-2022, reviewer commitee
 
-CLSW 2019-2021, reviewer commitee
+CLSW 2019-2022, reviewer commitee
 
 I am the reviewer of bellowing journals:
 
@@ -85,7 +85,7 @@ Journal of Experimental & Theoretical Artificial Intelligence (<a href="https://
 
 <a href="https://www.springer.com/journal/530"> Multimedia Systems </a>
 
-<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639"> IEEE Access </a>
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369"> IEEE Trans of Affective Computing </a>
 
 <h1>Contact me</h1>
 Telephone: (44) 7422590236
