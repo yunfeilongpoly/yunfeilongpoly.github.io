@@ -60,7 +60,7 @@ Information Retrieval (Final year undergraduate and MSc students)
 
 
 <h2>Professional Services</h2>
-China National Conference on Computational Linguistics (<a href="http://www.cips-cl.org/static/CCL2017/callfor.html">CCL 2017</a>, <a href="http://www.cips-cl.org/static/CCL2016/en/index.html">CCL 2016</a>), reviewer committee 
+China National Conference on Computational Linguistics, since 2016 (<a href="http://cips-cl.org/static/CCL2022/index.html"> reviewer committee and Area Chair 
 
 
 COLING <a href="http://coling2018.org/http://coling2018.org/">2016/2018</a>, reviewer commitee
@@ -69,7 +69,7 @@ PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>-2020, reviewer
 
 1st Workshop on Linguistic and Neuro-Cognitive Resources (<a href="http://lincr2018.cbs.polyu.edu.hk/LiNCR_workshop/">LiNCR</a>), programme committee
 
-EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">2019,2020</a>, reviewer commitee
+EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">2019,2020,2021,2022</a>, reviewer commitee
 
 AAAI 2020, reviewer commitee
 
