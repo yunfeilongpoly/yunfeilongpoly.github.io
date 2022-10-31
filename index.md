@@ -62,16 +62,18 @@ Janadhip, Self-funded PhD student focus on Medical Image processing.
 
 Genghui Qu, Part-time PhD student funded by Healthshare Ltd, focus on Medical Recommendation system
 
+
 I also supervise serveal undgraduate students who interested in NLP research in Harbin Institute of Technology and Xijiao-Liverpool University.
 
 
 <h2>Professional Services</h2>
 China National Conference on Computational Linguistics, since 2016 (<a href="http://cips-cl.org/static/CCL2022/index.html"> reviewer committee and Area Chair)
 
+ACL reviewer since 2021
+    
+COLING <a href="http://coling2018.org/http://coling2018.org/">2016/2018/2020/2022</a>, reviewer 
 
-COLING <a href="http://coling2018.org/http://coling2018.org/">2016/2018</a>, reviewer 
-
-PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>-2020, reviewer 
+PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>-2021, reviewer 
 
 EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">2019,2020,2021,2022</a>, reviewer commitee
 
