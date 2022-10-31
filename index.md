@@ -17,7 +17,7 @@ setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleStr
 </nav>
 
 <h1> Motto </h1>
-The combination of NLP and Mental Health would make you happier! 
+The combination of NLP and Health research would make you happier! 
 
 <h1><a href="personalprofile.html">About my self</a></h1>
 Born in middlesouth China, Leave home at 13, Love reading,coding, and traveling. Try to learn from both humanity and science.
@@ -42,7 +42,7 @@ For more information, please visit my <a href="https://github.com/yunfeilongpoly
 
 
 <h1><a href="publications.html">Publications</a></h1>
-Please visit the following pages: <a href="publications.html">my publication</a>
+Please visit the following pages: <a href="https://www.essex.ac.uk/people/longy19108/yunfei-long">my profile in Essex</a>
 
 <h1>Activities</h1>
 
@@ -52,8 +52,17 @@ Natural Language Engineering (Final year undergraduate and MSc students)
 
 Information Retrieval (Final year undergraduate and MSc students)
 
-Currently I am supervising two PhD students, and I am opening for supervising new PhD students in health care related text processing.
+Currently my research group includes:
 
+Zhou Hao, CSEE studentship funded PhD student focus on Finanical Sentiment Analysis 
+
+Guangming Huang, CSEE studentship funded PhD student focus on Healthcare NLP
+
+Janadhip, Self-funded PhD student focus on Medical Image processing.
+
+Genghui Qu, Part-time PhD student funded by Healthshare Ltd, focus on Medical Recommendation system
+
+I also supervise serveal undgraduate students who interested in NLP research in Harbin Institute of Technology and Xijiao-Liverpool University.
 
 
 <h2>Professional Services</h2>
