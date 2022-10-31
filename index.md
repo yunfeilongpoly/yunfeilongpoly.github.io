@@ -60,7 +60,7 @@ Guangming Huang, CSEE studentship funded PhD student focus on Healthcare NLP
 
 Janadhip, Self-funded PhD student focus on Medical Image processing.
 
-Genghui Qu, Part-time PhD student funded by Healthshare Ltd, focus on Medical Recommendation system
+Genghui Qu, Part-time PhD student funded by Healthshare Ltd and Innovate UK, focus on Medical Recommendation system
 
 
 I also supervise serveal undgraduate students who interested in NLP research in Harbin Institute of Technology and Xijiao-Liverpool University.
