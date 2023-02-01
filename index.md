@@ -54,16 +54,14 @@ Information Retrieval (Final year undergraduate and MSc students)
 
 Currently my research group includes:
 
-Zhou Hao, CSEE studentship funded PhD student focus on Finanical Sentiment Analysis 
-
 Guangming Huang, CSEE studentship funded PhD student focus on Healthcare NLP
-
-Janadhip, Self-funded PhD student focus on Medical Image processing.
 
 Genghui Qu, Part-time PhD student funded by Healthshare Ltd and Innovate UK, focus on Medical Recommendation system
 
+Yuhan Xia, Master of Science by research, focus on leveraging lexical semantics in affective analysis
 
-I also supervise serveal undgraduate students who interested in NLP research in Harbin Institute of Technology and Xijiao-Liverpool University.
+
+Open for new CSEE scholarship phd positions.
 
 
 <h2>Professional Services</h2>
