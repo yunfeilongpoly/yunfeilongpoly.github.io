@@ -17,7 +17,7 @@ setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleStr
 </nav>
 
 <h1> Motto </h1>
-The combination of NLP and Health research would make you happier! 
+Arts and sciences  (文理兼修)
 
 <h1><a href="personalprofile.html">About my self</a></h1>
 Born in middlesouth China, Leave home at 13, Love reading,coding, and traveling. Try to learn from both humanity and science.
