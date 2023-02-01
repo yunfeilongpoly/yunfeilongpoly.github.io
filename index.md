@@ -26,9 +26,7 @@ For more information, please visit my <a href="https://github.com/yunfeilongpoly
 
 <h1> <a href="personalprofile.html">Working expeniences</a></h1>
 2020.4-Now,            Lecturer in NLP, School of Computer Science and Electronic Engineering, University of Essex
-
 2019.01-2020.3,        Research Fellow, Horizon digital economy research institute, University of Nottingham 
-
 2019.03-2019.12,       Xenzone, Research Advisory Board member
 
 <h1> <a href="personalprofile.html">Education background</a></h1>
@@ -84,6 +82,8 @@ I am the reviewer of bellowing journals:
 ACM Transactions on Asian Language Information Processing (<a href="https://dl.acm.org/citation.cfm?id=J820">TALIP</a>)
 
 Journal of Experimental & Theoretical Artificial Intelligence (<a href="https://www.tandfonline.com/toc/teta20/current">JETAI</a>)
+    
+Journal of Machine Learning and Cybernetics (JMLC) (<a href="https://www.springer.com/journal/13042">JMLC</a>)
 
 <a href="https://www.journals.elsevier.com/neurocomputing"> Neurocomputing </a>
 
