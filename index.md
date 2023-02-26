@@ -63,7 +63,7 @@ Yuhan Xia, Master of Science by research, focus on leveraging lexical semantics 
 
 I am now hiring a fully funded PhD, in neuro-symbolic NLP, if anyone is interested, please email me yl20051@essex.ac.uk
 
-Our group also have a few KTP assoicates on hiring, please visit: "https://www1.essex.ac.uk/vacancies/categories.aspx?jobtype=all"
+Our group also have a few KTP assoicates <a href="https://www1.essex.ac.uk/vacancies/categories.aspx?jobtype=all"> on hiring.
 
 
 <h2>Professional Services</h2>
