@@ -61,7 +61,9 @@ Genghui Qu, Part-time PhD student funded by Healthshare Ltd and Innovate UK, foc
 Yuhan Xia, Master of Science by research, focus on leveraging lexical semantics in affective analysis
 
 
-Open for new CSEE scholarship phd positions.
+I am now hiring a fully funded PhD, in neuro-symbolic NLP, if anyone is interested, please email me yl20051@essex.ac.uk
+
+Our group also have a few KTP assoicates on hiring, please visit: "https://www1.essex.ac.uk/vacancies/categories.aspx?jobtype=all"
 
 
 <h2>Professional Services</h2>
