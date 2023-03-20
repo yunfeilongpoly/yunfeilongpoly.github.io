@@ -83,6 +83,8 @@ CLSW 2019-2022, reviewer commitee
 
 I am the reviewer of bellowing journals:
 
+ACM Transactions on Information Systems (<a href="https://dl.acm.org/journal/tois">TIS</a>)
+    
 ACM Transactions on Asian Language Information Processing (<a href="https://dl.acm.org/citation.cfm?id=J820">TALIP</a>)
 
 Journal of Experimental & Theoretical Artificial Intelligence (<a href="https://www.tandfonline.com/toc/teta20/current">JETAI</a>)
