@@ -88,7 +88,11 @@ ACM Transactions on Asian Language Information Processing (<a href="https://dl.a
 Journal of Experimental & Theoretical Artificial Intelligence (<a href="https://www.tandfonline.com/toc/teta20/current">JETAI</a>)
     
 Journal of Machine Learning and Cybernetics (JMLC) (<a href="https://www.springer.com/journal/13042">JMLC</a>)
-
+    
+Journal of Healthcare Informatics Research (JHIR) (<a href="https://www.springer.com/journal/41666/contact-the-journal">JHIR</a>)
+    
+Information Processing & Management (IPM) (<a href="https://www.sciencedirect.com/journal/information-processing-and-management">IPM</a>)
+    
 <a href="https://www.journals.elsevier.com/neurocomputing"> Neurocomputing </a>
 
 <a href="https://www.springer.com/journal/530"> Multimedia Systems </a>
