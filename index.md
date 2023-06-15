@@ -56,7 +56,7 @@ Currently my research group includes:
 
 Guangming Huang, CSEE studentship funded PhD student focus on Healthcare NLP
 
-Genghui Qu, Part-time PhD student funded by Healthshare Ltd and Innovate UK, focus on Medical Recommendation system
+Genghui Qu, PhD student funded by Healthshare Ltd and Innovate UK, focus on Medical Recommendation system
 
 Yuhan Xia, Master of Science by research, focus on leveraging lexical semantics in affective analysis
 
@@ -71,15 +71,17 @@ China National Conference on Computational Linguistics, since 2016 (<a href="htt
 
 ACL reviewer since 2021
     
-COLING <a href="http://coling2018.org/http://coling2018.org/">2016/2018/2020/2022</a>, reviewer 
+COLING <a href="https://lrec-coling-2024.lrec-conf.org/">2016/2018/2020/2022/2024</a>, reviewer, Workshop Chair for COLING 2024 
 
-PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>-2021, reviewer 
+PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>-2023, reviewer 
 
-EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">2019,2020,2021,2022</a>, reviewer commitee
+EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">2019-2023</a>, reviewer commitee
 
 AAAI 2020-2022, reviewer commitee
 
-CLSW 2019-2022, reviewer commitee
+CLSW 2019-2023, reviewer commitee, programme commitee
+
+AACL/IJCNLP 2019-2023, reviewer commitee
 
 I am the reviewer of bellowing journals:
 
@@ -100,6 +102,8 @@ Information Processing & Management (IPM) (<a href="https://www.sciencedirect.co
 <a href="https://www.springer.com/journal/530"> Multimedia Systems </a>
 
 <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369"> IEEE Trans of Affective Computing </a>
+
+<a href="https://onlinelibrary.wiley.com/journal/13652575"> Information Systems Journal </a>
 
 <h1>Contact me</h1>
 Telephone: (44) 7422590236
