@@ -73,9 +73,9 @@ ACL reviewer since 2021
     
 COLING <a href="https://lrec-coling-2024.lrec-conf.org/">2016/2018/2020/2022/2024</a>, reviewer, Workshop Chair for COLING 2024 
 
-PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>-2023, reviewer 
+PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>-2023, reviewer, program commitee
 
-EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">2019-2023</a>, reviewer commitee
+EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">2019-2023</a>, reviewer commitee, session chair for EMNLP 2023
 
 AAAI 2020-2022, reviewer commitee
 
