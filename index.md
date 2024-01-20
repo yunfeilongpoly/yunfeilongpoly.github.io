@@ -75,6 +75,8 @@ COLING <a href="https://lrec-coling-2024.lrec-conf.org/">2016/2018/2020/2022/202
 
 PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>-2023, reviewer, program commitee
 
+NAACL <a href="https://2024.naacl.org/">2023</a>-Now, reviewer, program commitee
+
 EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">2019-2023</a>, reviewer commitee, session chair for EMNLP 2023
 
 AAAI 2020-2022, reviewer commitee
@@ -104,6 +106,10 @@ Information Processing & Management (IPM) (<a href="https://www.sciencedirect.co
 <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369"> IEEE Trans of Affective Computing </a>
 
 <a href="https://onlinelibrary.wiley.com/journal/13652575"> Information Systems Journal </a>
+
+<a href="https://www.sciencedirect.com/journal/information-sciences"> Information Sciences </a>
+
+<a href="https://www.sciencedirect.com/journal/knowledge-based-systems"> Knowledge based Systems </a>
 
 <h1>Contact me</h1>
 Telephone: (44) 7422590236
