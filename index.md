@@ -81,9 +81,9 @@ Currently my research group includes:
 
 Guangming Huang, CSEE studentship funded PhD student focus on Healthcare NLP
 
-Genghui Qu, PhD student funded by Healthshare Ltd and Innovate UK, focus on Medical Recommendation system
+Jinming Zhang, PhD student funded by Healthshare Ltd and Innovate UK, focus on LLM in games
 
-Yuhan Xia, Master of Science by research, focus on leveraging lexical semantics in affective analysis
+Peiling Yi, Post research fellow, focus on leveraging affective analysis in misinformation detection
 
 
 I am now hiring a fully funded PhD, in neuro-symbolic NLP, if anyone is interested, please email me yl20051@essex.ac.uk
