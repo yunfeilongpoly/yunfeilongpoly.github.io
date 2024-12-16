@@ -81,7 +81,7 @@ EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">2019-2023</a>, reviewer commit
 
 AAAI 2020-2022, reviewer commitee
 
-CLSW 2019-2023, reviewer commitee, programme commitee
+CLSW 2019-2025, reviewer commitee, programme commitee, programme co-chair in 2025 
 
 AACL/IJCNLP 2019-2023, reviewer commitee
 
@@ -110,6 +110,8 @@ Information Processing & Management (IPM) (<a href="https://www.sciencedirect.co
 <a href="https://www.sciencedirect.com/journal/information-sciences"> Information Sciences </a>
 
 <a href="https://www.sciencedirect.com/journal/knowledge-based-systems"> Knowledge based Systems </a>
+
+<a href="https://www.sciencedirect.com/journal/neurocomputing"> Neurocomputing </a>
 
 <h1>Contact me</h1>
 Telephone: (44) 7422590236
