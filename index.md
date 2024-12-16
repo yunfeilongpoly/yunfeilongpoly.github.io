@@ -102,13 +102,13 @@ PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>-2023, reviewer
 
 NAACL <a href="https://2024.naacl.org/">2023</a>-Now, reviewer, program commitee
 
-EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">2019-2023</a>, reviewer commitee, session chair for EMNLP 2023
+EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">2019-2024</a>, reviewer commitee, session chair for EMNLP 2023
 
-AAAI 2020-2022, reviewer commitee
+AAAI 2020-2025, reviewer commitee
 
 CLSW 2019-2025, reviewer commitee, programme commitee, programme co-chair in 2025 
 
-AACL/IJCNLP 2019-2023, reviewer commitee
+AACL/IJCNLP 2019-2024, reviewer commitee
 
 I am the reviewer of bellowing journals:
 
