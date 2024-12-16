@@ -111,7 +111,8 @@ Information Processing & Management (IPM) (<a href="https://www.sciencedirect.co
 
 <a href="https://www.sciencedirect.com/journal/knowledge-based-systems"> Knowledge based Systems </a>
 
-<a href="https://www.sciencedirect.com/journal/neurocomputing"> Neurocomputing </a>
+<a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems"> 
+IEEE Transactions on Neural Networks and Learning Systems </a>
 
 <h1>Contact me</h1>
 Telephone: (44) 7422590236
