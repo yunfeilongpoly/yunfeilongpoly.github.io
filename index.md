@@ -85,6 +85,8 @@ Jinming Zhang, PhD student funded by Healthshare Ltd and Innovate UK, focus on L
 
 Peiling Yi, Post research fellow, focus on leveraging affective analysis in misinformation detection
 
+Lingzhi Shen, PhD student, focus on misinformation detection
+
 
 I am now hiring a fully funded PhD, in neuro-symbolic NLP, if anyone is interested, please email me yl20051@essex.ac.uk
 
