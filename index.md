@@ -41,8 +41,27 @@ For more information, please visit my <a href="https://github.com/yunfeilongpoly
 
 
 
-<h1><a href="publications.html">Publications</a></h1>
+<h1><a href="publications.html">Publication updates</a></h1>
 Please visit the following pages: <a href="https://www.essex.ac.uk/people/longy19108/yunfei-long">my profile in Essex</a>
+
+ In 2024: 
+
+
+
+<li>Feb: Prompting Explicit and Implicit Knowledge for Multi-hop Question Answering Based on Human Reading Process <a href="https://arxiv.org/abs/2402.19350"> get accepted by LREC-COLING 2024
+</li>
+
+<li>Aug 27: Leveraging sensory knowledge into Text-to-Text Transfer Transformer for enhanced emotion analysis <a href="https://pdf.sciencedirectassets.com/271647/1-s2.0-S0306457324X00059/1-s2.0-S0306457324002358/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEG0aCXVzLWVhc3QtMSJIMEYCIQCUWaawoVAREP4TEs7n9clcn8LBK1XEGs1kCa%2FFJ5x7IwIhAO2rEgGXR9WIm0OetFEBjAthPoyWCkAQDworoiF0mQ95KrMFCDUQBRoMMDU5MDAzNTQ2ODY1IgxOJqmwFCesGoMbaDsqkAWRIaSGSN1itbChZ7XO%2FIhmSsGS5m15W0YCPZXIDeySHLkX5Iy0PHSCS2ttkceZdYPOABsQ6Id%2FqkUlMkLZxoiIksWbl25JT9BQyq7DBSUMSkOf4RH2R1d2nQBRh2yrTv4IjVcVCDM5aVmOoR%2BnXLNwqmTrCbyrO7MQIwsOGRnOqU0z4wce1F3q%2FUO6Pm6ab2anvM2X7ZnMFHJIVUfJJ3PqZExIZvuQC9eMUJvHchG2L8YjVtjkLtnm6HzDlJXr3fnkx09TlUAgY9ULQudNsdFpprFrl2zROtUuYnxzN%2BdnzQnrLrLCpoNQWfLsS4iIQ8%2BqZZyTsLPvHGA5eQ1Z9dBFLldlZrJcbmfvrtpydQk8XcRSU4CkHYDlzsFKq4CDVHI2xbv2F%2FgpQDnDBxxnAOXY1KNNb0x7vuTcyUmMzV3DWehIzsLtemYpGykF9FTFuQ8CAS90l1wtvps76izvsLtF%2FCwJqY6qmPZA1QpK0%2BMngWlX%2F9Rf5J4NljeZW7GliQRuDT6V4Qg9yRv1XfeXKw%2BvRduy99BknAOWd58odTuLjWz7Y1PqCjQrrWgxz2pVpAc6GmQs%2B9ha3zGl2pYx0rdrEZSRH3OxHV4NtA2QRMiJ5008vi9cwayEchmuqPOO6XpFgxt%2BNH9uwB6GknxxnuFQzojzNhVdupc9q%2B6MV7F5moKfgqQhckZIZ9Z90w%2FrmDfb06CA6i%2F7pf4IJNkWPVlSh8UBvjq4E5L7vUX3z0dIPWaEghQP1lgfLt3iubM06%2FCAfK5gqkGx0l7yNJfPK1TC17Ds0iUGSB1WaNlmEqn77osThTNHp67XSF58jQsm3YGrfb9VCasTo0TeAPIm4a68wKYuCwlaiaJi3s8ThigdFzDYl4K7BjqwAXQfa5wKS8M1LpfiVfUoGdf5y7qtacATnpWvwcJJZQU52HXJAIVhushi1lyNRxl3xJ15n3XB1G3YLG45GyvsYSaVk2FGlNbL0goS%2Bm8WZdcXDJjDlHzXQKrU9N94J1zBUBTzMP9HCzlGnwZsU43xqiOKKeZ2Xl95ek0AWLjkGubaSfj9bSumMVauXMiL42kq9aRk89d4RL%2FxRXbEIXXViaHmYXoyqlsVoVznBXMKrtnM&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241216T210122Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYV7KNJVVL%2F20241216%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=47ade52712f035436d3d964061470a2233321c0e9c8ccbfa86c6b7e695c9e0c1&hash=681ff199a1d30e675ee77e5a63cdc9caf4223480eedfa5844ddb1fb34deda21d&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0306457324002358&tid=spdf-24661f52-585f-4a2b-aebd-40e94147302d&sid=94dee25945ee59482649fc403c052c0c8ff9gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=01025e02555356070154&rr=8f319bb78afccd82&cc=gb"> get accepted by Information Processing and Management
+</li>
+
+ <li>Ocotber: GAMED: Knowledge Adaptive Multi-Experts Decoupling for Multimodal Fake News Detection <a href="https://repository.essex.ac.uk/39476/"> get accepted by WSDM 2024
+</li>
+
+  <li>November 15: Emotion-Adaptive Training for Cyberbullying Detection: Addressing harassment and defamation detection with adaptive emotional training <a href="https://repository.essex.ac.uk/39476/"> get accepted by ICWSM 2024
+</li>
+
+   <li>November 29: MLD-EA: Check and Complete Narrative Coherence by Introducing Emotions and Actions <a href="https://arxiv.org/abs/2412.02897"> get accepted by COLING 2025
+</li>
 
 <h1>Activities</h1>
 
