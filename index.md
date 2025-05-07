@@ -1,4 +1,4 @@
-    <img src="yunfeilongpoly.github.io/WeChat Image_20210313165242.jpg" widht="1024" height="768"/>
+    <img src="http://yunfeilongpoly.github.io/Image_20210313165242.jpg" widht="1024" height="768"/>
 <div id="time1"> id is hang_2 </div>
 <script>            
 setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleString();", 1000);
