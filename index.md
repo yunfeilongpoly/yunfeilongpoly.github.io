@@ -4,17 +4,6 @@
 setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleString();", 1000);
 </script>
 
-<nav class="navbar navbar-inverse navbar-fixed-top">
-    <div id="navbar" class="collapse navbar-collapse">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="index.html">Home</a></li>
-        <li><a href="publications.html">Publications</a></li>     
-        <li><a href="personalprofile.html">Personal</a></li> 
-        <li><a href="index.html">Contact</a></li>  
-        <li><a href="Team_resource.html">Team resources</a></li>  
-      </ul>
-  </div>
-</nav>
 
 <h1> Motto </h1>
 Arts and sciences  (文理兼修)
