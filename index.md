@@ -57,7 +57,7 @@ Please visit the following pages: <a href="https://www.essex.ac.uk/people/longy1
 <li>April 4: Bias in Language Models: Interplay of Architecture and Data? get accepted by SIGIR 2025
 </li>
 
- <li>Oct 24: GAMED: Knowledge Adaptive Multi-Experts Decoupling for Multimodal Fake News Detection <a href="https://repository.essex.ac.uk/39476/"> get accepted by WSDM 2024
+ <li>May 5: LLM-CompDroid: Repairing Configuration Compatibility Bugs in Android Apps with Pre-trained Large Language Models get accepted by ACM Transactions on Software Engineering and Methodology
 </li>
 
  
