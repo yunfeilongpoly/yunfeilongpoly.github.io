@@ -54,19 +54,10 @@ Please visit the following pages: <a href="https://www.essex.ac.uk/people/longy1
 <li>March 31: Less but Better: Parameter-Efficient Fine-Tuning of Large Language Models for Personality Detection <a href="https://arxiv.org/abs/2504.05411"> get accepted by IJCNN 2025
 </li>
 
-<li>Aug 27: Leveraging sensory knowledge into Text-to-Text Transfer Transformer for enhanced emotion analysis get accepted by Information Processing and Management
+<li>April 4: Bias in Language Models: Interplay of Architecture and Data? get accepted by SIGIR 2025
 </li>
 
  <li>Oct 24: GAMED: Knowledge Adaptive Multi-Experts Decoupling for Multimodal Fake News Detection <a href="https://repository.essex.ac.uk/39476/"> get accepted by WSDM 2024
-</li>
-
- <li>Oct 30: Multimodal dual perception fusion framework for multimodal affective analysis <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253524005256)/"> get accepted by Information Fusion
-</li>  
-     
-  <li>November 15: Emotion-Adaptive Training for Cyberbullying Detection: Addressing harassment and defamation detection with adaptive emotional training <a href="https://repository.essex.ac.uk/39476/"> get accepted by ICWSM 2024
-</li>
-
-   <li>November 29: MLD-EA: Check and Complete Narrative Coherence by Introducing Emotions and Actions <a href="https://arxiv.org/abs/2412.02897"> get accepted by COLING 2025
 </li>
 
  
