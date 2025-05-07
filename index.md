@@ -51,7 +51,7 @@ Please visit the following pages: <a href="https://www.essex.ac.uk/people/longy1
 <li>March 19: LL4G: Self-Supervised Dynamic Optimization for Graph-Based Personality Detection <a href="https://arxiv.org/abs/2504.02146"> get accepted by ICME 2025
 </li>
 
-<li>Jun 14: A dual relation-encoder network for aspect sentiment triplet extraction <a href="https://www.sciencedirect.com/science/article/pii/S092523122400835X"> get accepted by Neurocomputing
+<li>March 31: Less but Better: Parameter-Efficient Fine-Tuning of Large Language Models for Personality Detection <a href="https://arxiv.org/abs/2504.05411"> get accepted by IJCNN 2025
 </li>
 
 <li>Aug 27: Leveraging sensory knowledge into Text-to-Text Transfer Transformer for enhanced emotion analysis get accepted by Information Processing and Management
