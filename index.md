@@ -11,7 +11,7 @@ Arts and sciences  (文理兼修)
 <h1><a href="personalprofile.html">About my self</a></h1>
 Born in middlesouth China, Leave home at 13, Love reading,coding, and traveling. Try to learn from both humanity and science.
 
-For more information, please visit my <a href="https://github.com/yunfeilongpoly/yunfeilongpoly.github.io/blob/master/Research%20CV%20YUNFEI%20LONG%20201910.pdf">CV</a> and <a href="personalprofile.html">My profile page</a>. 
+For more information, please visit my <a href="https://github.com/yunfeilongpoly/yunfeilongpoly.github.io/blob/master/Yunfei_CV_0525.docx">CV</a> and <a href="personalprofile.html">My profile page</a>. 
 
 <h1> <a href="personalprofile.html">Working expeniences</a></h1>
 
