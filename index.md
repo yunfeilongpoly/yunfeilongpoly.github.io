@@ -163,6 +163,6 @@ IEEE Transactions on Neural Networks and Learning Systems </a>
 <h1>Contact me</h1>
 Telephone: (44) 7422590236
 
-Email: <a href="mailto:yl20051@essex.ac.uk">yl20051@essex.ac.uk</a> OR <a href="mailto:longyunfei910911@gmail.com">longyunfei910911@gmail.com</a>  
+Email: <a href="mailto:yl20051@essex.ac.uk">qp241311@qmul.ac.uk</a> OR <a href="mailto:longyunfei910911@gmail.com">longyunfei910911@gmail.com</a>  
 
 Find me in: <a href="https://www.linkedin.com/in/yunfei-long-3342b08a/">LinkIn</a>, <a href="https://scholar.google.com.hk/citations?user=2gKA6BUAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.essex.ac.uk/people/longy19108/yunfei-long">University webiste</a>, and <a href="https://www.researchgate.net/profile/Yunfei_Long4">Researchgate</a>
