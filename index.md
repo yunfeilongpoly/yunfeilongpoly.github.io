@@ -50,7 +50,8 @@ Please visit the following pages: <a href="https://www.essex.ac.uk/people/longy1
  <li>May 5: LLM-CompDroid: Repairing Configuration Compatibility Bugs in Android Apps with Pre-trained Large Language Models get accepted by ACM Transactions on Software Engineering and Methodology
 </li>
 
- 
+
+ <br>
  
  In 2024: 
 
