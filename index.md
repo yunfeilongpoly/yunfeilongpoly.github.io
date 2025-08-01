@@ -51,7 +51,6 @@ Please visit the following pages: <a href="https://www.essex.ac.uk/people/longy1
 </li>
 
  <li>May 16: Learning to Play Like Humans: A Framework for LLM Adaptation in Interactive Fiction Text-Based GAMEs get accepted by ACL as findings paper <a href="https://aclanthology.org/2025.findings-acl.531.pdf">
-  
 </li>
 
 
@@ -73,7 +72,7 @@ Please visit the following pages: <a href="https://www.essex.ac.uk/people/longy1
  <li>Oct 24: GAMED: Knowledge Adaptive Multi-Experts Decoupling for Multimodal Fake News Detection <a href="https://repository.essex.ac.uk/39476/"> get accepted by WSDM 2024
 </li>
 
- <li>Oct 30: Multimodal dual perception fusion framework for multimodal affective analysis <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253524005256)/"> get accepted by Information Fusion
+ <li>Oct 30: Multimodal dual perception fusion framework for multimodal affective analysis <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253524005256/"> get accepted by Information Fusion
 </li>  
      
   <li>November 15: Emotion-Adaptive Training for Cyberbullying Detection: Addressing harassment and defamation detection with adaptive emotional training <a href="https://repository.essex.ac.uk/39476/"> get accepted by ICWSM 2024
