@@ -51,6 +51,7 @@ Please visit the following pages: <a href="https://www.essex.ac.uk/people/longy1
 </li>
 
  <li>May 16: Learning to Play Like Humans: A Framework for LLM Adaptation in Interactive Fiction Text-Based GAMEs get accepted by ACL as findings paper <a href="https://aclanthology.org/2025.findings-acl.531.pdf">
+  
 </li>
 
 
@@ -96,6 +97,8 @@ Guangming Huang, Essex CSEE studentship funded PhD student focus on Healthcare N
 Jinming Zhang, PhD student funded by Healthshare Ltd and Innovate UK, focus on LLM in games
 
 Lingzhi Shen, PhD student, focus on misinformation detection
+
+Yuhan Xia, Msc by research student graduated in 2024, currently Research assistant in LLM and Sensory information
 
 Past research group includes:
 
