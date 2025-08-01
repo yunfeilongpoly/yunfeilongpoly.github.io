@@ -88,14 +88,15 @@ Information Retrieval (Final year undergraduate and MSc students)
 
 Currently my research group includes:
 
-Guangming Huang, CSEE studentship funded PhD student focus on Healthcare NLP
+Guangming Huang, Essex CSEE studentship funded PhD student focus on Healthcare NLP
 
 Jinming Zhang, PhD student funded by Healthshare Ltd and Innovate UK, focus on LLM in games
 
-Peiling Yi, Post research fellow, focus on leveraging affective analysis in misinformation detection
-
 Lingzhi Shen, PhD student, focus on misinformation detection
 
+Past research group includes:
+
+Peiling Yi, Post research fellow during Feb 2024 to July 2025, focus on leveraging affective analysis in misinformation detection
 
 I am now hiring a fully funded PhD, in neuro-symbolic NLP, if anyone is interested, please email me yl20051@essex.ac.uk
 
@@ -107,7 +108,7 @@ China National Conference on Computational Linguistics, since 2016 (<a href="htt
 
 ACL reviewer since 2021
     
-COLING <a href="https://lrec-coling-2024.lrec-conf.org/">2016/2018/2020/2022/2024</a>, reviewer, Workshop Chair for COLING 2024 
+COLING <a href="https://lrec-coling-2024.lrec-conf.org/">2016/2018/2020/2022/2024/2025</a>, reviewer, Workshop Chair for COLING 2024 
 
 PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>-2023, reviewer, program commitee
 
@@ -119,7 +120,9 @@ AAAI 2020-2025, reviewer commitee
 
 CLSW 2019-2025, reviewer commitee, programme commitee, programme co-chair in 2025 
 
-AACL/IJCNLP 2019-2024, reviewer commitee
+NLPCC 2025, session chair in Sentiment analysis
+
+AACL/IJCNLP 2019-2025, reviewer commitee, area chair in 2025
 
 I am the reviewer of bellowing journals:
 
