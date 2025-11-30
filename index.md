@@ -85,23 +85,23 @@ In 2025:
 
 <h2>Teaching and Supervision</h2>
 
-Natural Language Engineering (Final year undergraduate and MSc students)
+<li>Natural Language Engineering (Final year undergraduate and MSc students)</li>
 
-Information Retrieval (Final year undergraduate and MSc students)
+<li>Information Retrieval (Final year undergraduate and MSc students)</li>
 
 Currently my research group includes:
 
-Guangming Huang, Essex CSEE studentship funded PhD student focus on Healthcare NLP
+<li>Guangming Huang, Essex CSEE studentship funded PhD student focus on Healthcare NLP</li>
 
-Jinming Zhang, PhD student funded by Healthshare Ltd and Innovate UK, focus on LLM in games
+<li>Jinming Zhang, PhD student funded by Healthshare Ltd and Innovate UK, focus on LLM in games</li>
 
-Lingzhi Shen, PhD student, focus on misinformation detection
+<li>Lingzhi Shen, PhD student, focus on misinformation detection</li>
 
-Yuhan Xia, Msc by research student graduated in 2024, currently Research assistant in LLM and Sensory information
+<li>Yuhan Xia, Msc by research student graduated in 2024, currently Research assistant in LLM and Sensory information</li>
 
 Past research group includes:
 
-Peiling Yi, Post research fellow during Feb 2024 to July 2025, focus on leveraging affective analysis in misinformation detection
+<li>Peiling Yi, Post research fellow during Feb 2024 to July 2025, focus on leveraging affective analysis in misinformation detection</li>
 
 I am now hiring a fully funded PhD, in neuro-symbolic NLP, if anyone is interested, please email me yl20051@essex.ac.uk
 
