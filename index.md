@@ -56,7 +56,7 @@ Please visit the following pages: <a href="https://www.essex.ac.uk/people/longy1
  <li>Aug 2025: Generator-assistant stepwise rollback framework for large language model agent <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250302519L/abstract"> get accepted by EMNLP 
 </li>
 
- <li>Sep 2025: EmoPerso: Enhancing Personality Detection with Self-Supervised Emotion-Aware Modelling get accepted by CIKM <a href="https://dl.acm.org/doi/abs/10.1145/3746252.3761247">
+ <li>Sep 2025: EmoPerso: Enhancing Personality Detection with Self-Supervised Emotion-Aware Modelling <a href="https://dl.acm.org/doi/abs/10.1145/3746252.3761247"> get accepted by CIKM 
 </li>
 
 
