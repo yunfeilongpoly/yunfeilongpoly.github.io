@@ -34,7 +34,7 @@ For more information, please visit my <a href="https://github.com/yunfeilongpoly
 
 
 <h1><a href="publications.html">Publication updates</a></h1>
-Please visit the following pages: <a href="https://www.essex.ac.uk/people/longy19108/yunfei-long">my profile in Essex</a>
+Please visit the following pages: <a href="https://www.qmul.ac.uk/eecs/people/profiles/longyunfei.html">my profile in Queen Mary University of London</a>
 
  In 2025:
  
