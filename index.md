@@ -36,7 +36,9 @@ For more information, please visit my <a href="https://github.com/yunfeilongpoly
 <h1><a href="publications.html">Publication updates</a></h1>
 Please visit the following pages: <a href="https://www.qmul.ac.uk/eecs/people/profiles/longyunfei.html">my profile in Queen Mary University of London</a>
 
- In 2025:
+<hr><hr><hr>
+
+In 2025:
  
 <li>March 19: LL4G: Self-Supervised Dynamic Optimization for Graph-Based Personality Detection <a href="https://arxiv.org/abs/2504.02146"> get accepted by ICME 2025 </li>
 
@@ -51,10 +53,6 @@ Please visit the following pages: <a href="https://www.qmul.ac.uk/eecs/people/pr
  <li>Aug 2025: Generator-assistant stepwise rollback framework for large language model agent <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250302519L/abstract"> get accepted by EMNLP  </li>
 
  <li>Sep 2025: EmoPerso: Enhancing Personality Detection with Self-Supervised Emotion-Aware Modelling <a href="https://dl.acm.org/doi/abs/10.1145/3746252.3761247"> get accepted by CIKM </li>
-
-
-
-
 
  <br>
  <hr><hr><hr>
