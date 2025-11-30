@@ -38,26 +38,19 @@ Please visit the following pages: <a href="https://www.essex.ac.uk/people/longy1
 
  In 2025:
  
-<li>March 19: LL4G: Self-Supervised Dynamic Optimization for Graph-Based Personality Detection <a href="https://arxiv.org/abs/2504.02146"> get accepted by ICME 2025
-</li>
+<li>March 19: LL4G: Self-Supervised Dynamic Optimization for Graph-Based Personality Detection <a href="https://arxiv.org/abs/2504.02146"> get accepted by ICME 2025 </li>
 
-<li>March 31: Less but Better: Parameter-Efficient Fine-Tuning of Large Language Models for Personality Detection <a href="https://arxiv.org/abs/2504.05411"> get accepted by IJCNN 2025
-</li>
+<li>March 31: Less but Better: Parameter-Efficient Fine-Tuning of Large Language Models for Personality Detection <a href="https://arxiv.org/abs/2504.05411"> get accepted by IJCNN 2025 </li>
 
-<li>April 4: Bias in Language Models: Interplay of Architecture and Data? <a href='https://dl.acm.org/doi/abs/10.1145/3726302.3730172'> get accepted by SIGIR 2025
-</li>
+<li>April 4: Bias in Language Models: Interplay of Architecture and Data? <a href='https://dl.acm.org/doi/abs/10.1145/3726302.3730172'> get accepted by SIGIR 2025 </li>
 
- <li>May 5: LLM-CompDroid: Repairing Configuration Compatibility Bugs in Android Apps with Pre-trained Large Language Models get accepted by ACM Transactions on Software Engineering and Methodology
-</li>
+ <li>May 5: LLM-CompDroid: Repairing Configuration Compatibility Bugs in Android Apps with Pre-trained Large Language Models get accepted by ACM Transactions on Software Engineering and Methodology </li>
 
- <li>May 16: Learning to Play Like Humans: A Framework for LLM Adaptation in Interactive Fiction Text-Based GAMEs get accepted by ACL as findings paper <a href="https://aclanthology.org/2025.findings-acl.531.pdf">
-</li>
+ <li>May 16: Learning to Play Like Humans: A Framework for LLM Adaptation in Interactive Fiction Text-Based GAMEs get accepted by ACL as findings paper <a href="https://aclanthology.org/2025.findings-acl.531.pdf"> </li>
 
- <li>Aug 2025: Generator-assistant stepwise rollback framework for large language model agent <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250302519L/abstract"> get accepted by EMNLP 
-</li>
+ <li>Aug 2025: Generator-assistant stepwise rollback framework for large language model agent <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250302519L/abstract"> get accepted by EMNLP  </li>
 
- <li>Sep 2025: EmoPerso: Enhancing Personality Detection with Self-Supervised Emotion-Aware Modelling <a href="https://dl.acm.org/doi/abs/10.1145/3746252.3761247"> get accepted by CIKM 
-</li>
+ <li>Sep 2025: EmoPerso: Enhancing Personality Detection with Self-Supervised Emotion-Aware Modelling <a href="https://dl.acm.org/doi/abs/10.1145/3746252.3761247"> get accepted by CIKM </li>
 
 
 
