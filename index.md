@@ -40,19 +40,19 @@ Please visit the following pages: <a href="https://www.qmul.ac.uk/eecs/people/pr
 
 In 2025:
  
-<li>March 19: LL4G: Self-Supervised Dynamic Optimization for Graph-Based Personality Detection <a href="https://arxiv.org/abs/2504.02146"> get accepted by ICME 2025 </li>
+<li>March 19: LL4G: Self-Supervised Dynamic Optimization for Graph-Based Personality Detection <a href="https://arxiv.org/abs/2504.02146"> get accepted by ICME 2025 </a></li>
 
-<li>March 31: Less but Better: Parameter-Efficient Fine-Tuning of Large Language Models for Personality Detection <a href="https://arxiv.org/abs/2504.05411"> get accepted by IJCNN 2025 </li>
+<li>March 31: Less but Better: Parameter-Efficient Fine-Tuning of Large Language Models for Personality Detection <a href="https://arxiv.org/abs/2504.05411"> get accepted by IJCNN 2025 </a> </li>
 
-<li>April 4: Bias in Language Models: Interplay of Architecture and Data? <a href='https://dl.acm.org/doi/abs/10.1145/3726302.3730172'> get accepted by SIGIR 2025 </li>
+<li>April 4: Bias in Language Models: Interplay of Architecture and Data? <a href='https://dl.acm.org/doi/abs/10.1145/3726302.3730172'> get accepted by SIGIR 2025 </a> </li>
 
  <li>May 5: LLM-CompDroid: Repairing Configuration Compatibility Bugs in Android Apps with Pre-trained Large Language Models get accepted by ACM Transactions on Software Engineering and Methodology </li>
 
- <li>May 16: Learning to Play Like Humans: A Framework for LLM Adaptation in Interactive Fiction Text-Based GAMEs get accepted by ACL as findings paper <a href="https://aclanthology.org/2025.findings-acl.531.pdf"> </li>
+ <li>May 16: Learning to Play Like Humans: A Framework for LLM Adaptation in Interactive Fiction Text-Based GAMEs get accepted by ACL as <a href="https://aclanthology.org/2025.findings-acl.531.pdf"> findings paper</a></li>
 
- <li>Aug 2025: Generator-assistant stepwise rollback framework for large language model agent <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250302519L/abstract"> get accepted by EMNLP  </li>
+ <li>Aug 2025: Generator-assistant stepwise rollback framework for large language model agent <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250302519L/abstract"> get accepted by EMNLP </a> </li>
 
- <li>Sep 2025: EmoPerso: Enhancing Personality Detection with Self-Supervised Emotion-Aware Modelling <a href="https://dl.acm.org/doi/abs/10.1145/3746252.3761247"> get accepted by CIKM </li>
+ <li>Sep 2025: EmoPerso: Enhancing Personality Detection with Self-Supervised Emotion-Aware Modelling <a href="https://dl.acm.org/doi/abs/10.1145/3746252.3761247"> get accepted by CIKM </a></li>
 
  <br>
  <hr><hr><hr>
@@ -60,25 +60,25 @@ In 2025:
 
 
 
-<li>Feb 19: Prompting Explicit and Implicit Knowledge for Multi-hop Question Answering Based on Human Reading Process <a href="https://arxiv.org/abs/2402.19350"> get accepted by LREC-COLING 2024
+<li>Feb 19: Prompting Explicit and Implicit Knowledge for Multi-hop Question Answering Based on Human Reading Process <a href="https://arxiv.org/abs/2402.19350"> get accepted by LREC-COLING 2024</a>
 </li>
 
-<li>Jun 14: A dual relation-encoder network for aspect sentiment triplet extraction <a href="https://www.sciencedirect.com/science/article/pii/S092523122400835X"> get accepted by Neurocomputing
+<li>Jun 14: A dual relation-encoder network for aspect sentiment triplet extraction <a href="https://www.sciencedirect.com/science/article/pii/S092523122400835X"> get accepted by Neurocomputing</a>
 </li>
 
-<li>Aug 27: Leveraging sensory knowledge into Text-to-Text Transfer Transformer for enhanced emotion analysis get accepted by Information Processing and Management
+<li>Aug 27: Leveraging sensory knowledge into Text-to-Text Transfer Transformer for enhanced emotion analysis get accepted by Information Processing and Management</a>
 </li>
 
- <li>Oct 24: GAMED: Knowledge Adaptive Multi-Experts Decoupling for Multimodal Fake News Detection <a href="https://repository.essex.ac.uk/39476/"> get accepted by WSDM 2024
+ <li>Oct 24: GAMED: Knowledge Adaptive Multi-Experts Decoupling for Multimodal Fake News Detection <a href="https://repository.essex.ac.uk/39476/"> get accepted by WSDM 2024</a>
 </li>
 
- <li>Oct 30: Multimodal dual perception fusion framework for multimodal affective analysis <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253524005256/"> get accepted by Information Fusion
+ <li>Oct 30: Multimodal dual perception fusion framework for multimodal affective analysis <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253524005256/"> get accepted by Information Fusion</a>
 </li>  
      
-  <li>November 15: Emotion-Adaptive Training for Cyberbullying Detection: Addressing harassment and defamation detection with adaptive emotional training <a href="https://repository.essex.ac.uk/39476/"> get accepted by ICWSM 2024
+  <li>November 15: Emotion-Adaptive Training for Cyberbullying Detection: Addressing harassment and defamation detection with adaptive emotional training <a href="https://repository.essex.ac.uk/39476/"> get accepted by ICWSM 2024</a>
 </li>
 
-   <li>November 29: MLD-EA: Check and Complete Narrative Coherence by Introducing Emotions and Actions <a href="https://arxiv.org/abs/2412.02897"> get accepted by COLING 2025
+   <li>November 29: MLD-EA: Check and Complete Narrative Coherence by Introducing Emotions and Actions <a href="https://arxiv.org/abs/2412.02897"> get accepted by COLING 2025</a>
 </li>
 
 <h1>Activities</h1>
