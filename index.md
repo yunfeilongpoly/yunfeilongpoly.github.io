@@ -97,19 +97,19 @@ In 2025:
 
 Currently my research group includes:
 
-<li>Guangming Huang, Essex CSEE studentship funded PhD student focus on Healthcare NLP</li>
-
 <li>Jinming Zhang, PhD student funded by Healthshare Ltd and Innovate UK, focus on LLM in games</li>
 
-<li>Lingzhi Shen, PhD student, focus on misinformation detection</li>
+<li>Lingzhi Shen, PhD student, focus on misinformation detection, viva passed in October 2026, scheduled to graduate at Spring 2027</li>
 
-<li>Yuhan Xia, Msc by research student graduated in 2024, currently Research assistant in LLM and Sensory information</li>
+<li>Yuhan Xia, Msc by research student graduated in 2024, currently CSC funded PhD student in QMUL EECS</li>
 
 Past research group includes:
 
 <li>Peiling Yi, Post research fellow during Feb 2024 to July 2025, focus on leveraging affective analysis in misinformation detection</li>
 
-I am now hiring a fully funded PhD, in neuro-symbolic NLP, if anyone is interested, please email me yl20051@essex.ac.uk
+<li>Guangming Huang, Essex CSEE studentship funded PhD student focus on Healthcare NLP, graduated on April 2026, now assistant professor in University of Hertfordshire</li>
+
+I am now hiring a fully funded PhD, in sensory and LLMs, if anyone is interested, please email me yunfei.long@qmul.ac.uk
 
 Our group also have a few KTP assoicates <a href="https://www1.essex.ac.uk/vacancies/categories.aspx?jobtype=all"> on hiring.
 
