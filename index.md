@@ -58,6 +58,8 @@ In 2025:
 
  <li>Sep 2025: EmoPerso: Enhancing Personality Detection with Self-Supervised Emotion-Aware Modelling <a href="https://dl.acm.org/doi/abs/10.1145/3746252.3761247"> get accepted by CIKM </a></li>
 
+  <li>October 2025: Two papers accepted by NeurIPs </a></li>
+
  <br>
  <hr><hr><hr>
  In 2024: 
