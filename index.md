@@ -58,7 +58,7 @@ In 2025:
 
  <li>Sep 2025: EmoPerso: Enhancing Personality Detection with Self-Supervised Emotion-Aware Modelling <a href="https://dl.acm.org/doi/abs/10.1145/3746252.3761247"> get accepted by CIKM </a></li>
 
-  <li>October 2025: Two papers accepted by NeurIPs </a></li>
+  <li>October 2025: Two papers accepted by NeurIPs </li>
 
  <br>
  <hr><hr><hr>
@@ -111,23 +111,21 @@ Past research group includes:
 
 I am now hiring a fully funded PhD, in sensory and LLMs, if anyone is interested, please email me yunfei.long@qmul.ac.uk
 
-Our group also have a few KTP assoicates <a href="https://www1.essex.ac.uk/vacancies/categories.aspx?jobtype=all"> on hiring.
-
 
 <h2>Professional Services</h2>
 China National Conference on Computational Linguistics, since 2016 (<a href="http://cips-cl.org/static/CCL2022/index.html"> reviewer committee and Area Chair)
 
 ACL reviewer since 2021
     
-COLING <a href="https://lrec-coling-2024.lrec-conf.org/">2016/2018/2020/2022/2024/2025</a>, reviewer, Workshop Chair for COLING 2024 
+COLING <a href="https://lrec-coling-2024.lrec-conf.org/">2016/2018/2020/2022/2024/2025/2027</a>, reviewer, Workshop Chair for COLING 2024 
 
 PACLIC <a href="http://www.cbs.polyu.edu.hk/2018paclic/">2018</a>-2023, reviewer, program commitee
 
 NAACL <a href="https://2024.naacl.org/">2023</a>-Now, reviewer, program commitee
 
-EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">2019-2024</a>, reviewer commitee, session chair for EMNLP 2023
+EMNLP <a href="https://www.emnlp-ijcnlp2019.org/">since 2019</a>, reviewer commitee, session chair for EMNLP since 2023
 
-AAAI 2020-2025, reviewer commitee
+AAAI since 2020, reviewer commitee, area chair since 2025
 
 CLSW 2019-2025, reviewer commitee, programme commitee, programme co-chair in 2025 
 
@@ -163,6 +161,8 @@ Information Processing & Management (IPM) (<a href="https://www.sciencedirect.co
 
 <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems"> 
 IEEE Transactions on Neural Networks and Learning Systems </a>
+
+I am one of the associate editor of <a href="[https://www.sciencedirect.com/journal/knowledge-based-systems](https://onlinelibrary.wiley.com/journal/14680394)">Expert Systems</a> 
 
 <h1>Contact me</h1>
 Telephone: (44) 7422590236
