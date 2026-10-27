@@ -38,6 +38,10 @@ Please visit the following pages: <a href="https://www.qmul.ac.uk/eecs/people/pr
 
 <hr><hr><hr>
 
+In 2026:
+
+My group's work has been accepted by ACL, EMNLP, ACM MM, ICASSP,  and AACL. For full accepted paper, please visit my <a href="https://scholar.google.com/citations?user=2gKA6BUAAAAJ&hl=en">google scholar</a> profile page. 
+
 In 2025:
  
 <li>March 19: LL4G: Self-Supervised Dynamic Optimization for Graph-Based Personality Detection <a href="https://arxiv.org/abs/2504.02146"> get accepted by ICME 2025 </a></li>
